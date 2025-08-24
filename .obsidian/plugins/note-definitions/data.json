@@ -1,0 +1,24 @@
+{
+  "enableInReadingView": true,
+  "enableSpellcheck": true,
+  "popoverEvent": "hover",
+  "defFileParseConfig": {
+    "defaultFileType": "consolidated",
+    "divider": {
+      "dash": true,
+      "underscore": false
+    },
+    "autoPlurals": true
+  },
+  "defPopoverConfig": {
+    "displayAliases": true,
+    "displayDefFileName": false,
+    "enableCustomSize": false,
+    "maxWidth": 150,
+    "maxHeight": 150,
+    "popoverDismissEvent": "click",
+    "enableDefinitionLink": true,
+    "backgroundColour": "#8b6f6f"
+  },
+  "defFolder": "08-Definitions"
+}

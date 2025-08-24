@@ -1,0 +1,54 @@
+@startuml
+title Inference Optimization Pipeline for LLMs
+top to bottom direction
+
+package "Inference Pipeline" {
+    class InferencePipeline {
+        +load_model()
+        +apply_optimizations()
+        +evaluate_latency()
+        +evaluate_memory()
+        +evaluate_quality()
+    }
+
+    InferencePipeline --> OptimizationMethod
+}
+
+abstract class OptimizationMethod {
+    +apply(model)
+}
+
+package "Hardware/Pipeline Focused" {
+    class Batching extends OptimizationMethod
+    class Compiler extends OptimizationMethod
+    class Factorization extends OptimizationMethod
+}
+
+package "Model Focused" {
+    class KeyValueCaching extends OptimizationMethod
+    class Quantization extends OptimizationMethod
+    class Pruning extends OptimizationMethod
+    class Distillation extends OptimizationMethod
+    class SpeculativeDecoding extends OptimizationMethod
+}
+
+package "Proposed Approach" {
+    class UnifiedAttentionSurrogate extends OptimizationMethod {
+        +train_with_teacher()
+        +simulate_attention()
+        -head_embedding
+        -context_representation
+    }
+}
+
+OptimizationMethod <|-- Batching
+OptimizationMethod <|-- Compiler
+OptimizationMethod <|-- Factorization
+OptimizationMethod <|-- KeyValueCaching
+OptimizationMethod <|-- Quantization
+OptimizationMethod <|-- Pruning
+OptimizationMethod <|-- Distillation
+OptimizationMethod <|-- SpeculativeDecoding
+OptimizationMethod <|-- UnifiedAttentionSurrogate
+
+@enduml

@@ -1,0 +1,10 @@
+- vorhersage qualität verbessern 
+- mulitple sequenz alignments -> benutzt für alpha fold stuktur prediction 
+- protein sequenzen so gestalten, dass Alphafold predictoins besser werden
+- homologe sequenzen? 
+- MSA subsampling um mehr informationen von alphafold zu bekommen 
+- Röntgencrystallographie - PdB -> krystallisationsbedingungen 
+- wieso kristallisiert protein x unter bestimmten bedingungen 
+- cross species complexe ist arm in der PdB 
+- coevolutionen sind schwer zu monitoren 
+- Cosupervisor mit machine learning hintergrund -> Fabian Kern Ph. D. 
