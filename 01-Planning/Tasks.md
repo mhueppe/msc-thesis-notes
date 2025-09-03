@@ -15,8 +15,9 @@ sort by priority
 done
 group by folder
 sort by path
-limit 20
+limit 20 by folder
 ```
+
 
 
 

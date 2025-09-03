@@ -20,5 +20,6 @@
 | EMBL Hamburg         | info@embl-hamburg.de           | <input id="hc-9767" type="checkbox" checked> | <input id="hc-8983" type="checkbox" checked> | ❌<br> |
 | EMBL Grenoble HTX    | htx@embl.fr                    | <input id="hc-7627" type="checkbox" checked> | <input id="hc-7053" type="checkbox" checked> | ❌     |
 | Diamond Light Source | dataportal@diamond.ac.uk       | <input id="hc-7106" type="checkbox" checked> | <input id="hc-2186" type="checkbox" checked> | ❌     |
+| UKE Lab Itzen        |                                | <input id="hc-4771" type="checkbox">         | <input id="hc-9128" type="checkbox">         |       |
 
 

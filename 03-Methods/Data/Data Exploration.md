@@ -1,8 +1,14 @@
 ## Tasks
 - [x] Histogram for various features ✅ 2025-08-19
 - [x] Relationships between various features ✅ 2025-08-19
-- [ ] Parse methods and analyse
-- [ ] Parse details and analyse 
+- [x] Explore crystallization conditions ✅ 2025-08-26
+- [x] Explore Crystal information ✅ 2025-08-26
+- [x] Explore refinement data ✅ 2025-08-26
+- [x] Explore reflection resolution data ✅ 2025-08-26
+- [x] Explore Isoelectric Point ✅ 2025-08-26
+- [x] Encode Protein Sequence ✅ 2025-09-03
+	- [x] Cluster Proteins based on embedding ✅ 2025-09-02
+	- [x] Explore Similarities in embedding and ph/Temperature/method ✅ 2025-09-03
 # Nan Value Percentage per Information
 
 
@@ -15,8 +21,7 @@
 ## Crystal Growth pH
 
 ![[phDistribution.pdf]]
-![[relationPhAndTemperature.pdf]]
-## Polymer Sequence
+![[Pasted image 20250826192746.png]]## Polymer Sequence
 
 ![[codeLengthDistribution.pdf]]
 
@@ -32,17 +37,18 @@
 # Resolution
 
 ![[resolutionLowDistribution.pdf]]![[resolutionHighDistribution.pdf]]
-![[relationHighAndLowResolution.pdf]]
-
+![[Pasted image 20250826192722.png]]
 # Reflection Resolution 
 ![[reflectionResolutionhighDistribution.pdf]]
 
 ![[reflectionResolutionlowDistribution.pdf]]
-![[relationHighAndLowReflectionResolution.pdf]]
 
+![[Pasted image 20250826192655.png]]
 # Cell Length 
-![[cellLengthRelation 1.pdf]]
-
+![[Pasted image 20250826192609.png]]
+![[cellLengthRelation 1.pdf]
 ![[cellLengthRelationViolin 1.pdf]]
 
 ![[correlationCellLength.pdf]]![[employmentMethodDistribution.pdf]]
+# Isoelectric Point 
+![[Pasted image 20250826192533.png]]

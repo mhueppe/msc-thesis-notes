@@ -1,0 +1,17 @@
+
+- [x] Download all data to harddrive 🆔 5qyrrt ⏫ ✅ 2025-08-14
+- [x] unpack all data ✅ 2025-08-17
+- [x] Fix fragmented space r ✅ 2025-08-26
+- [x] create relational database system (star schema) for every category ✅ 2025-08-24
+- [-] create visualization for database system #writing 
+- [x] Create Details parser for all given conditions 🆔 yruue7 ⛔ 5qyrrt ⏫ ➕ 2025-08-12 ✅ 2025-08-21
+- [x] Parse all crystallization data into one database 🆔 fg69a2 ⛔ yruue7 🔼 ✅ 2025-08-16
+- [x] Parse all proteins into one database 🆔 fg69a2 ⛔ yruue7 🔼 ✅ 2025-08-21
+- [x] Preprocess missing value "?"  -> NAN ✅ 2025-08-24
+- [x] Convert All to numerical if possible and add to download file ✅ 2025-08-24
+- [x] Filter and remove Duplicates in database system ✅ 2025-08-28
+- [x] embed all protein using`esm2_t6_8M_UR50D`  ✅ 2025-09-02
+- [x] embed all proteins using `esm2_t30_150M_UR50D` ✅ 2025-09-03
+- [ ] embed all proteins using `esm2_t30_350M_UR50D`
+
+## Problems

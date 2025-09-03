@@ -7,7 +7,7 @@ DataTyes:
 
 - [ ] Find meta data information to incorporate into the model -> what type of metadata does alpha fold use? ⏫ 
 - [x] Filter out the refinement information for loss incorporation ✅ 2025-08-17
-- [ ] Analyse missing values for all proteins ⛔ fg69a2
+- [x] Analyse missing values for all proteins ⛔ fg69a2 ✅ 2025-09-03
 # Input
 
 ## Sequence Input 
