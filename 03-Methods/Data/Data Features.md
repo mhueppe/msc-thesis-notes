@@ -1,6 +1,6 @@
 For Breakdown of Database entries see [[Dataset-Info]]
 ![[1-s2.0-S2666389920300246-fx1.jpg]]
-DataTyes: 
+DataTypes: 
 #string , #numerical, #categorical, #range
 
 # Tasks

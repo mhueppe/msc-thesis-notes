@@ -1,0 +1,135 @@
+/* Using Obsidian's CSS variables for a consistent look */
+/* You can find many of these in the Obsidian dev tools */
+
+.markdown-rendered .qa-question,
+.markdown-rendered .qa-answer {
+    --qa-indent-size: 20px; /* Base indent for each level */
+    margin-left: calc(var(--qa-indent-level, 0) * var(--qa-indent-size));
+    transition: margin-left 0.1s ease-out; /* Smooth indent transition */
+    border-bottom: 2px solid #8a5cf5;
+    margin-bottom: var(--size-1000-1000);
+}
+
+.markdown-rendered .qa-question {
+    background-color: var(--background-secondary); /* Lighter background for questions */
+    border: 1px solid var(--background-modifier-border);
+    border-radius: var(--radius-l); /* Larger border-radius */
+    padding: var(--size-2-2) var(--size-4-3); /* Comfortable padding */
+    margin-top: var(--size-4-2);
+    margin-bottom: var(--size-2-2);
+    font-weight: var(--font-weight-medium);
+    color: var(--text-normal);
+    box-shadow: var(--shadow-s); /* Subtle shadow for depth */
+}
+
+.markdown-rendered .qa-question-editable {
+    font-size: var(--font-text-size);
+}
+
+.markdown-rendered .qa-answer {
+    margin-top: var(--size-2-2);
+    margin-bottom: var(--size-4-2);
+    padding-left: var(--size-4-3); /* Indent answer text slightly */
+    border-left: 2px solid var(--interactive-accent); /* Accent line for answers */
+}
+
+.markdown-rendered .qa-answer-editable {
+    font-size: var(--font-smaller); /* Answers slightly smaller than questions */
+    color: var(--text-muted); /* Muted color for answers */
+}
+
+
+.markdown-rendered .qa-editable {
+    display: block;
+    width: 100%;
+    min-height: 1.4em;
+    padding: var(--size-2-2) var(--size-2-3); /* Smaller padding inside editable */
+    border: 1px dashed var(--background-modifier-border-hover); /* Lighter dashed border */
+    border-radius: var(--radius-m); /* Medium border-radius */
+    font-family: var(--font-text);
+    line-height: var(--line-height-normal);
+    background-color: var(--background-primary); /* Primary background for editable fields */
+    cursor: text;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    caret-color: var(--interactive-accent); /* Accent color for the cursor */
+    transition: border-color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+    .markdown-rendered .qa-editable:focus {
+        outline: none; /* Remove default outline */
+        border-color: var(--interactive-accent); /* Accent border on focus */
+        background-color: var(--background-secondary-alt); /* Slightly different background on focus */
+        box-shadow: 0 0 0 2px var(--interactive-accent-rgb), var(--shadow-s); /* Subtle glow */
+    }
+
+    .markdown-rendered .qa-editable:hover {
+        border-color: var(--interactive-hover);
+        background-color: var(--background-secondary-alt);
+    }
+
+    /* Specific styling for placeholder text */
+    .markdown-rendered .qa-editable:empty:not(:focus)::before {
+        content: attr(data-placeholder); /* Placeholder content set by JS */
+        color: var(--text-faint);
+        cursor: text;
+    }
+
+    /* Hide actual placeholder text when focused and empty */
+    .markdown-rendered .qa-editable:focus:empty::before {
+        content: '';
+    }
+
+/* Adjustments for hierarchy - making text a bit smaller and lighter for deeper levels */
+.markdown-rendered .qa-level-1 {
+    font-size: 0.95em;
+    color: var(--text-normal);
+}
+
+    .markdown-rendered .qa-level-1 .qa-answer-editable {
+        font-size: 0.85em;
+        color: var(--text-muted);
+    }
+
+.markdown-rendered .qa-level-2 {
+    font-size: 0.9em;
+    color: var(--text-muted);
+}
+
+    .markdown-rendered .qa-level-2 .qa-answer-editable {
+        font-size: 0.8em;
+        color: var(--text-faint);
+    }
+
+.markdown-rendered .qa-level-3 {
+    font-size: 0.85em;
+    color: var(--text-faint);
+}
+
+    .markdown-rendered .qa-level-3 .qa-answer-editable {
+        font-size: 0.75em;
+        color: var(--text-faint);
+    }
+
+/* Further levels can be added if needed, or generalize with calc() */
+.markdown-rendered .qa-level-gt-3 { /* For levels greater than 3 */
+    font-size: 0.8em;
+    color: var(--text-faint);
+}
+
+    .markdown-rendered .qa-level-gt-3 .qa-answer-editable {
+        font-size: 0.7em;
+        color: var(--text-faint);
+    }
+
+/* Helper to set placeholder via JS */
+.markdown-rendered .qa-question-editable[contenteditable]:empty::before {
+    content: " ? (Write question here)";
+    color: var(--text-faint);
+}
+
+.markdown-rendered .qa-answer-editable[contenteditable]:empty::before {
+    content: " ! (Write answer here)";
+    color: var(--text-faint);
+}

@@ -2,6 +2,7 @@
 # Tasks
 - [ ] Pertubate missing values 🔼 
 - [ ] transform description, details and other free text option
+- [ ] transform methods into uniform method set 
 
 When looking into the different fields and their values as done in [[Data Features]] it becomes clear the data has to be normalized. Some samples can be seen in the following: 
 
