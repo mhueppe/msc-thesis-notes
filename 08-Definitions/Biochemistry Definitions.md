@@ -419,3 +419,20 @@ _symmetry.space_group_name_H-M, space group, Hermann Mauguin space group
 The crystallographic space group name in Hermann–Mauguin notation (e.g., _P2₁2₁2₁_).
 
 ---
+
+# N Terminus 
+
+*n terminus, first residue unlinked amino group*
+
+- Refers to the **free amino group** at the very start of the chain (the first residue that still has an unlinked –NH₃⁺).
+- In protein structure diagrams, "N-terminus" means the **beginning** of the polypeptide chain.
+
+---
+# C Terminus 
+
+*c terminus*
+
+- Refers to the **free carboxyl group** at the very end of the chain (the last residue that still has an unlinked –COO⁻).
+- In structure diagrams, "C-terminus" means the **end** of the polypeptide chain.
+
+---

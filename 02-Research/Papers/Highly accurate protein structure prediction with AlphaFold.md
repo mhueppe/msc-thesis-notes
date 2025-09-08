@@ -1,13 +1,14 @@
 ---
 type: paper-notes
-title: "Highly accurate protein structure prediction with AlphaFold"
+title: Highly accurate protein structure prediction with AlphaFold
 authors: "{{authors}}"
 year: "{{year}}"
-link: "{{url}}"
+link:
 tags:
   - paper
   - reading-notes
 ---
+[Paper link](s41586-021-03819-2.pdf)
 # Pass 1 – Bird’s-Eye View Abstract/Conclusion (5–10 min)
 
 ## **Category**  
@@ -72,12 +73,51 @@ Q: ❓  What evidence supports the claims?
 A: ✏️ Performance values
 ```
 ### Notes Methods
-- The  AlphaFold network 
+The  AlphaFold network 
 	- based on evolutionary, physical and geometric constraints of protein structures
 	- <mark style="background: #FF5582A6;">embedd multiple sequence alignments</mark> and <mark style="background: #FF5582A6;">pairwise features</mark> for input
+	- directly predicts the 3D coordinates of all heavy atoms for a given protein using the primary amino acid sequence and aligned sequences of homologues as inputs 
 	- output representation → 
-- End-to-end structure prediction 
-	- 
+	 - Initialize atom sites with position at origin and rotation at identity
+Evoformer
+	- Refines the MSA and Pair representation using Attention and communication between the two modules 
+	- ![[Pasted image 20250908193956.png]]
+MSA representation: 
+	- sequence x residues 
+	- Columns: encode the individual residues of the input sequence
+	- Rows: represent the sequences in which those residues appear 
+	- Each residues is represented as an embedding vector so the representation of a amino acid sequence is essentially a matrix of shape n x d (n → of residues and d →  dimension of embedding space)
+	- $m_{s,i} \in \mathbb{R}^d$
+	- **Conservation** (columns that hardly change) → residues crucial for stability or function.
+	- **Covariation** (if residue i mutates, residue j mutates too) → evidence those residues are **in contact** or structurally constrained together.
+Pair representation: 
+	- residue x residue embedding
+	- ![[Pasted image 20250908210233.png|200]]
+	- before refinement, AlphaFold initalizes the pair representation with features like sequence seperation (|i-j|, how far residues are in sequence), positional encodings, and any prior templates if available
+		- Not true distances yes, just basic assumptions
+	- during evoformer iterations, attention layers update the pair matrix by exhanging information with the MSA representation. Over time, it becomes a learned contact map/geometryy piror
+		- abstract representation of "how likely" are residues i and j to be near each other in 3D
+	- Start: "these residues are close in sequence, so mabye close in space"
+	- After (MSA informed) Evoformer: "these residues are evolutionarily constrained to interact, so they probably sit together in 3D"
+Representation interaction: 
+	- MSA and Pair representation update each other repeatedly through Evoformer blocks
+	- MSA → Pair: 
+		- if residues i and j covary across sequences, the pair embedding should reflect that
+		- Mechanism: Outer Product Mean: 
+			- $o_{s,i,j} = m_{s,i} \otimes m_{s,j}$
+			- model takes embedding of residues from the MSA and computes an outer product (multiplying feature vectors)
+			- outer product is averaged over all aligned sequences
+			- $o_{i,j} = \frac{1}{S} \sum_{s=1}^S o_{s,i,j}$
+			- Result: information about residue-residue correlations gets injected into the pair representation
+	- Pair → MSE: 
+		- Row attention: each residue in MSA looks cross other residues in the same sequence to decide which to pay attention to
+		- $$\text{score}_{ij} = \frac{Q_i \cdot K_j}{\sqrt{d}} + \text{bias}_{ij}$$
+		- bias comes from the pair embedding meaning the pair representation tells the MSA representation which residue to pay more attention to 
+	- MSA is enriched with structural context
+	- Pair becomes geometry-rich contact map 
+End-to-end structure prediction 
+	- structure module operates on a concrete 3D backbone structure using the pair representation and the orignal sequence row of the MSA 
+	- structure is represented as $N_{res}$ independent rotations and translations, each with respect to the global frame 
 ### Notes Results
 
 
@@ -93,7 +133,7 @@ A: ✏️ Alphafold predicts protein structure prediction based on acid sequence
 Q: ❓ If I were to re-implement this work, what steps/assumptions would I need?
 A: ✏️ That protein folding and structure is informed through both physical and evolutionary history
 Q: ❓ Where do the innovations lie? Where are the hidden weaknesses?
-A: ✏️ Performance decreases with decrease in humologous proteins
+A: ✏️ The two representations (MSA and Pair) and communication between them, i.e. creating a meaningful evolutionary informed and physically informed representation
 ```
 ## **Critical Analysis**  
 ```qa

@@ -8,6 +8,7 @@ tags:
   - paper
   - reading-notes
 ---
+[Paper link]()
 # Pass 1 – Bird’s-Eye View (5–10 min)
 
 ## **Category**  
