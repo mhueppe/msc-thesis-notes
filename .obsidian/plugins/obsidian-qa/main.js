@@ -4,8 +4,8 @@ module.exports = class QAPlugin extends Plugin {
     onload() {
         this.registerMarkdownCodeBlockProcessor("qa", (source, el, ctx) => {
             const lines = source.split("\n");
-            const placeholderQ = "❓ ";
-            const placeholderA = "✏️ ";
+            const placeholderQ = "❓";
+            const placeholderA = "✏️";
             const section = ctx.getSectionInfo(el);
             if (!section) return;
 
@@ -87,6 +87,9 @@ module.exports = class QAPlugin extends Plugin {
                             editableQ.textContent = placeholderQ;
                             newText = "";
                         }
+                        if (!newText.contains(placeholderQ)) {
+                            newText = placeholderQ + " " + newText;
+                        }
                         await writeLine(absoluteLine, indent + "Q: " + newText);
                     });
 
@@ -117,6 +120,9 @@ module.exports = class QAPlugin extends Plugin {
                             editableA.textContent = placeholderA;
                             newText = "";
                         }
+                        if (!newText.contains(placeholderA)) {
+                            newText = placeholderA + " " + newText;
+                        }
                         await writeLine(absoluteLine, indent + "A: " + newText);
                     });
 
@@ -124,9 +130,10 @@ module.exports = class QAPlugin extends Plugin {
                         // Enter = save + new Q/A if last one
                         if (ev.key === "Enter" && ev.shiftKey && !ev.altKey) {
                             ev.preventDefault();
-                            let newText = editableA.textContent.replace(/\u00A0/g, " ").trim();
-                            editableA.textContent = placeholderA;
-                            newText = "";
+                            let newText = editableA.trim
+                            //if (!newText.contains(placeholderA)) {
+                            //    newText = placeholderA + " " + newText;
+                            //}
                             await writeLine(absoluteLine, indent + "A: " + newText);
                             editableA.blur();
 
@@ -143,6 +150,9 @@ module.exports = class QAPlugin extends Plugin {
                             if (!newText) {
                                 editableA.textContent = placeholderA;
                                 newText = "";
+                            }
+                            if (!newText.contains(placeholderA)) {
+                                newText = placeholderA + " " + newText;
                             }
                             await writeLine(absoluteLine, indent + "A: " + newText);
                             editableA.blur();
@@ -172,7 +182,7 @@ module.exports = class QAPlugin extends Plugin {
                 editor.setCursor({ line: cursor.line - 2, ch: 3 });
             }
         });
-    
+
     }
 
     onunload() { }

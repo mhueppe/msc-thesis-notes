@@ -6,8 +6,7 @@
     --qa-indent-size: 20px; /* Base indent for each level */
     margin-left: calc(var(--qa-indent-level, 0) * var(--qa-indent-size));
     transition: margin-left 0.1s ease-out; /* Smooth indent transition */
-    border-bottom: 2px solid #8a5cf5;
-    margin-bottom: var(--size-1000-1000);
+    
 }
 
 .markdown-rendered .qa-question {
@@ -17,6 +16,8 @@
     padding: var(--size-2-2) var(--size-4-3); /* Comfortable padding */
     margin-top: var(--size-4-2);
     margin-bottom: var(--size-2-2);
+    border-top: 2px solid #8a5cf5;
+    margin-top: var(--size-1000-1000);
     font-weight: var(--font-weight-medium);
     color: var(--text-normal);
     box-shadow: var(--shadow-s); /* Subtle shadow for depth */

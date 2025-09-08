@@ -55,12 +55,9 @@ A:
 
 ## **Figures & Graphs**  
 ```qa
-Q: Are the axes properly labeled?  
-A: 
-Q: Are error bars/statistics included?  
-A: 
-Q: Do the results look sound?
-A: 
+Q: ❓ Do the figures accurately depict the contents/result of the paper?
+Q: ❓ Do the results look sound?
+A: ✏️ 
 ```
 
 ## **Methods & Results**  
@@ -78,7 +75,7 @@ A:
 ```
 
 ## **References to Follow Up**  
-- [ ] (List unread or relevant references for later reading)
+- (List unread or relevant references for later reading)
 
 ---
 

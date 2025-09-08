@@ -1,3 +1,9 @@
+#  #tasks 
+
+
+- [ ] Read Alphafold paper to find more about input and output representation (MSE and structure module)
+- [ ] Read Graph representaion learning paper for input representation of amino acid sequences 
+ 
  - in silico deep developed to overcome the high attrition rates by predicting the crystallization propensities of proteins
  - Harmonic networks [[51](https://www.sciencedirect.com/science/article/pii/S0959440X22000471?utm_source=chatgpt.com#bib51)] have achieved rotation-equivariance in 2D. Recently, Thomas et al. [[52](https://www.sciencedirect.com/science/article/pii/S0959440X22000471?utm_source=chatgpt.com#bib52)] have published a rather widely-cited preprint on Tensor Field Networks, or TFNs, which operates on geometric tensors, scalars and vectors, and is therefore naturally translation- and rotation-equivariant. TFNs can be seen as a generalization of CNNs.
 
