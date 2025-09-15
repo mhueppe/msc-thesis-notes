@@ -12,6 +12,4 @@
 - [x] Filter and remove Duplicates in database system ✅ 2025-08-28
 - [x] embed all protein using`esm2_t6_8M_UR50D`  ✅ 2025-09-02
 - [x] embed all proteins using `esm2_t30_150M_UR50D` ✅ 2025-09-03
-- [ ] embed all proteins using `esm2_t30_350M_UR50D`
-
-## Problems
+- [x] embed all proteins using `esm2_t30_650M_UR50D` ✅ 2025-09-09

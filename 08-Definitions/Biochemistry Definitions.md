@@ -436,3 +436,49 @@ The crystallographic space group name in Hermann–Mauguin notation (e.g., _P2�
 - In structure diagrams, "C-terminus" means the **end** of the polypeptide chain.
 
 ---
+# Van der Waals radius 
+
+*van der Waals radius*
+
+- An atom has a **nucleus** (tiny) surrounded by **electrons**.
+- Those electrons form a “cloud”, a region where it’s likely to find an electron.
+- Other atoms can’t just overlap freely, because their electron clouds repel each other.
+
+So when we represent atoms in molecular models, we don’t treat them as points but as **spheres with a certain radius**. The **van der Waals radius** is an approximate radius of an atom’s electron cloud, describing how close another atom can get before weak repulsion becomes significant. The spheres pack together like lumpy marbles → forming the van der Waals surface of the protein 
+
+Typical values:
+- Hydrogen: ~1.2 Å
+- Carbon: ~1.7 Å
+- Nitrogen: ~1.55 Å
+- Oxygen: ~1.52 Å  
+    (1 Å = 10⁻¹⁰ meters)
+
+---
+# Solvent-Accessible Surface Area  
+
+*SASA, sasa, solvent accessible surface area*
+
+- proteins are made of atoms, each drawn as a sphere with its **van der Waals radius**.
+- Water molecules surround the protein in reality.
+- model a water molecule as a **probe sphere** with radius ~**1.4 Å** (the size of a water molecule)
+
+The area of the van der Waals surface that a solvent molecule (modeled as a 1.4 Å sphere) can touch. Calculation can be thought of as rolling the probe sphere (the water molecule) all around the the protein's surface (i.e. rolling a marble around a pile of lumpy larger marbles). Where ever the probe touches an atom, that part of the atom is considered solvent-accessible. Calculated by the Shrake-Rupley Algorithm
+
+---
+# Shrake-rupley algorithm 
+
+*shrake-rupley, SASA calculation*
+
+1. **Represent each atom as a sphere** using van der Waals radius.
+2. **Expand each sphere by the probe radius** (van der Waals radius + 1.4 Å).
+    - Why? Because if the probe’s _center_ is 1.4 Å away, then the probe just touches the atom.
+3. **Sample points** uniformly on the expanded sphere’s surface (e.g., 1000 points per atom).
+4. For each sample point:
+    - Check if it’s **buried** inside another expanded sphere (i.e., probe would collide with another atom there).
+    - If not buried → this point is **solvent accessible**.
+5. **SASA for the atom** = fraction of accessible points × surface area of the sphere (4πr²).
+6. **Protein SASA** = sum of all atom SASAs.
+![[Accessible_surface.svg.png | 300]]
+![[accessible-surface-l.webp|300]]
+---
+

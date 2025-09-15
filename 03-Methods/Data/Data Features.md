@@ -3,11 +3,14 @@ For Breakdown of Database entries see [[Dataset-Info]]
 DataTypes: 
 #string , #numerical, #categorical, #range
 
-# Tasks
+# #tasks
 
-- [ ] Find meta data information to incorporate into the model -> what type of metadata does alpha fold use? ⏫ 
+- [x] Find meta data information to incorporate into the model -> what type of metadata does alpha fold use? ⏫ ✅ 2025-09-14
 - [x] Filter out the refinement information for loss incorporation ✅ 2025-08-17
 - [x] Analyse missing values for all proteins ⛔ fg69a2 ✅ 2025-09-03
+- [x] retrieve ESM protein embedding for each protein ✅ 2025-09-08
+- [ ] retrieve Alphafold MSE matrix for each protein for evolutionary component 
+- [ ] from the 3D structures retrieve surface information 
 # Input
 
 ## Sequence Input 
@@ -17,6 +20,7 @@ DataTypes:
 	- Motifs/tags/mutations: `_entity_poly.pdbx_mutation`, N/C-terminal tags in construct description
 	- Disorder/low complexity (e.g., percent of AA in low-complexity runs)
 	- Cys count / potential disulfides (useful for stability/crystallizability)
+- Embedded by using ESM protein language models
 
 ## Structure Input 
 - `_atom_site`: Coordinates, residue mapping via `label_asym_id, label_seq_id, label_comp_id` 
@@ -97,5 +101,6 @@ DataTypes:
     
  ![[Pasted image 20250811115817.png]]
 
+# Protein structure
 
 ## Crystal quality for loss incorporation

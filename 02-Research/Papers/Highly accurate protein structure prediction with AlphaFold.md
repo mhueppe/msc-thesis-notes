@@ -138,22 +138,22 @@ A: ✏️ The two representations (MSA and Pair) and communication between them,
 ## **Critical Analysis**  
 ```qa
 Q: ❓ What assumptions are questionable?
-A: ✏️ 
+A: ✏️ None
 Q: ❓ Are there missing citations or overlooked related work?
-A: ✏️
+A: ✏️ None
 Q: ❓ Any issues with proofs/experiments?
-A: 
+A: ✏️ None
 ```
 
 ## **Comparison**  
 
 ```qa 
 Q: ❓ If I were to re-implement this work, what steps/assumptions would I need?
-A: 
+A: ✏️ That structure correlates with evolutionary information and similarly that MSE can encode evolutionary information, both assumptions are very well supported in literature
 Q: ❓ How would I have presented this idea differently?
-A: ✏️
+A: ✏️ None
 Q: ❓ What techniques can I copy for my research?
-A: ✏️ 
+A: ✏️ Multiple sequence alignment for the input of the condition prediction model with the assumption: Evolutionary similar crystals crystallize under the same conditions and pair representation: structurally similar proteins crystallize under the same conditions
 ```
 
 ## **Ideas for Future Work**  

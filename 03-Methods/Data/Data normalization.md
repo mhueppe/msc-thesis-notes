@@ -1,8 +1,12 @@
 
 # Tasks
 - [ ] Pertubate missing values 🔼 
-- [ ] transform description, details and other free text option
-- [ ] transform methods into uniform method set 
+- [x] transform description, details and other free text option ✅ 2025-09-14
+	- use: [A searchable Crystallization database](https://github.com/Hauptman-Woodward/crystallizationDatabase/tree/master)
+- [x] use chatGPT to normalize free text information into vectorized format ✅ 2025-09-14
+	- →  did not work ✅ 2025-09-14
+- [x] transform methods into uniform method set ✅ 2025-09-14
+- [ ] Clean up Data preprocessing 
 
 When looking into the different fields and their values as done in [[Data Features]] it becomes clear the data has to be normalized. Some samples can be seen in the following: 
 
@@ -27,10 +31,22 @@ The data should be parsed to read and save following attributes:
 - **Method** (Vapor Diffusion, Sitting Drop, Hanging Drop, Microbatch, etc.)
 - **Temperature** (K or °C)
 
-goal structure: 
+Results: 
 
-|sequence_id|buffer|buffer_conc|ph|salt|salt_conc|precipitant|prec_conc|temp_k|method|
-|---|---|---|---|---|---|---|---|---|---|
-|P12345|tris|0.1 M|8.5|sodium citrate|0.2 M|peg 400|30 %|289|vapor diffusion|
-|...|...|...|...|...|...|...|...|...|...|
-
+ ```json 
+  '3ZTB': {'pH': 6.5,
+  'temp': None,
+  'compounds': {'PEG 3350': '20%', 'nai': '200.0', 'bis-tris': '100.0'}},
+  '3ZUC': {'pH': 7.5,
+  'temp': None,
+  'compounds': {'ammonium sulfate': '1900.0',
+   'hepes': '100.0',
+   'PEG 400': '0.5% w/v',
+   'nickel chloride': '200.0'}}, 
+   '3ZVG': {'pH': 4.6,
+  'temp': None,
+  'compounds': {'sodium acetate': '70.0',
+   'PEG 4000': '15%',
+   'glycerol': '30%'}},
+ ```
+	 

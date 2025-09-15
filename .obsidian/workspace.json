@@ -24,17 +24,65 @@
             }
           },
           {
-            "id": "a693587f42d32b27",
+            "id": "3d68d0d877e9904c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Research/Papers/Highly accurate protein structure prediction with AlphaFold.md",
+                "file": "03-Methods/Data/Data normalization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Highly accurate protein structure prediction with AlphaFold"
+              "title": "Data normalization"
+            }
+          },
+          {
+            "id": "a693587f42d32b27",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7b23a748ec6d27e1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/Pasted image 20250903173553.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250903173553"
+            }
+          },
+          {
+            "id": "b5daece4753ab29a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Research/Protein Chemistry Course/Protein structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protein structures"
+            }
+          },
+          {
+            "id": "2e70d0e60d6339c1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/Pasted image 20250903174834.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250903174834"
             }
           },
           {
@@ -43,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/Templates/Paper reading template.md",
+                "file": "02-Research/Concepts/Protein Surface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paper reading template"
+              "title": "Protein Surface"
             }
           },
           {
@@ -63,6 +111,104 @@
               },
               "icon": "lucide-file",
               "title": "Highly accurate protein structure prediction with AlphaFold"
+            }
+          },
+          {
+            "id": "7d02f1c2407be0a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Data Exploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Exploration"
+            }
+          },
+          {
+            "id": "9c5bb2ffac2ad987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Research/Literature.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Literature"
+            }
+          },
+          {
+            "id": "6f4de4a058478ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Data Acquisition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Acquisition"
+            }
+          },
+          {
+            "id": "99f8418160625468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Research/Literature.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Literature"
+            }
+          },
+          {
+            "id": "2a2a0b463f5f4e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Exploration/General Exploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Exploration"
+            }
+          },
+          {
+            "id": "fe08c3f05e081e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Exploration/General Exploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Exploration"
+            }
+          },
+          {
+            "id": "a93ac92f1a13b30c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Exploration/General Exploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Exploration"
             }
           }
         ],
@@ -123,8 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "c67abae0fca4caba",
@@ -248,92 +393,56 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "d303617c4ac3440d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fe98fd653f0faeb8",
-        "type": "window",
-        "children": [
-          {
-            "id": "fd604b8b04c7e5b0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1ae9dd1bade5ede5",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Papers/s41586-021-03819-2.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "s41586-021-03819-2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 912,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a693587f42d32b27",
+  "active": "3d68d0d877e9904c",
   "lastOpenFiles": [
+    "03-Methods/Data/Data Features.md",
+    "03-Methods/Data/Data Acquisition.md",
+    "03-Methods/Data/Exploration/General Exploration.md",
+    "03-Methods/Data/Data normalization.md",
+    "01-Planning/Tasks.md",
+    "03-Methods/Data/Exploration/Data sequence similarity Exploration.md",
+    "03-Methods/Data/Exploration/Data Embedding Exploration.md",
+    "03-Methods/Data/Exploration/Condition Exploration.md",
+    "02-Research/Literature.md",
+    "Media/Pasted image 20250903173553.png",
+    "Media/Pasted image 20250903163740.png",
+    "Media/Pasted image 20250909200711.png",
+    "Media/Pasted image 20250909200651.png",
+    "Media/Pasted image 20250909200631.png",
     "Papers/s41586-021-03819-2.pdf",
-    "02-Research/Papers/Highly accurate protein structure prediction with AlphaFold.md",
-    "Media/Pasted image 20250908210233.png",
+    "03-Methods/Data/Exploration",
     "02-Research/Questions.md",
-    "Media/Pasted image 20250908193956.png",
+    "02-Research/Protein Chemistry Course/Protein structures.md",
+    "Media/Pasted image 20250903174834.png",
+    "02-Research/Concepts/Protein Surface.md",
+    "Media/Pasted image 20250903175806.png",
+    "02-Research/Papers/Highly accurate protein structure prediction with AlphaFold.md",
     "08-Definitions/Biochemistry Definitions.md",
     "Media/Templates/Paper reading template.md",
+    "Media/accessible-surface-l.webp",
+    "Media/Accessible_surface.svg.png",
+    "02-Research/Concepts",
+    "Media/Pasted image 20250908211652.png",
     "02-Research/Papers/Pronucleotide Probes Reveal a Diverging Specificity for AMPylation vs UMPylation of Human and Bacterial Nucleotide Transferases.md",
-    "01-Planning/Tasks.md",
     "().md",
     "Example.md",
-    "03-Methods/Data/Data Acquisition.md",
-    "02-Research/Literature-Review.md",
     "03-Methods/Pipeline/Untitled.canvas",
     "msc-thesis-canvas.canvas",
-    "03-Methods/Data/Data Exploration.md",
     "README.md",
     "03-Methods/Pipeline",
     "02-Research/Papers/Discovery of a new evolutionarily conserved short linear F-actin binding motif.md",
-    "Media/Pasted image 20250907123206.png",
     "01-Planning/pipeline.puml",
     "Untitled.base",
     "Untitled 1.base",
     "Papers/1-s2.0-S0734975024001538-main.pdf",
     "00-Index/Master Thesis.md",
     "02-Research/Papers/Untitled.md",
-    "Media/1-s2.0-S2666389920300246-fx1.jpg",
     "02-Research/Papers/Highly accurate protein structure prediction with AlphaFold 1.md",
     "Papers/s41467-023-37621-7.pdf",
     "Papers/s42003-023-05494-7.pdf",
-    "Papers/2201.13299v6.pdf",
-    "Papers/2025.04.16.649135v2.full.pdf",
     "01-Planning/Weekly-Log.md",
     "01-Planning/General Todo's.md",
     "02-Research/Papers/Dephosphocholinatoin by Legionella effector Lem3 functions through remodelling of the switch II region of Rab1b.md",
-    "Media/Pasted image 20250906132041.png",
-    "03-Methods/Data/Data Structure Exploration.md",
-    "03-Methods/Data/Data normalization.md",
-    "03-Methods/Data/Data Features.md",
-    "Media/Pasted image 20250903181210.png",
-    "Media/Pasted image 20250903181158.png",
-    "Media/Pasted image 20250903180202.png",
-    "Media/Pasted image 20250903175806.png",
-    "Media/Pasted image 20250903174834.png",
-    "00-Index/Thesis-Timeline.md",
-    "00-Index/Biochemistry Masterthesis.md",
-    "02-Research/Protein Chemistry Course/Protein structures.md",
     "Untitled 1.canvas"
   ]
 }

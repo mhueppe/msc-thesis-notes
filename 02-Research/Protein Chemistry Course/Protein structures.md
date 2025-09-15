@@ -125,3 +125,5 @@ Aber:
 | **Funktionaler Bezug**            | Nur teilweise zuverlässig: ähnliche Sequenz bedeutet nicht immer gleiche Funktion.               | Sehr zuverlässig: ähnliche Struktur deutet stark auf ähnliche Funktion hin.                                                             |
 | **„Lebensdauer“ der Information** | „Kurzlebig“ – Sequenzmutationen akkumulieren relativ schnell über die Evolution.                 | „Langlebig“ – Strukturen bleiben über lange evolutionäre Zeiträume erhalten.                                                            |
 | **Einsatzgebiet**                 | Gut für phylogenetische Bäume nah verwandter Organismen.                                         | Gut für Funktionsvorhersage und Erkennung entfernter evolutionärer Beziehungen.                                                         |
+## Protein structure similarity
+- Dock Q

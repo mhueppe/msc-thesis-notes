@@ -8,7 +8,8 @@
 - [x] Explore Isoelectric Point ✅ 2025-08-26
 - [x] Encode Protein Sequence ✅ 2025-09-03
 	- [x] Cluster Proteins based on embedding ✅ 2025-09-02
-	- [x] Explore Similarities in embedding and ph/Temperature/method ✅ 2025-09-03
+	- [x] Explore Similarities in embedding and pH/Temperature/method ✅ 2025-09-03
+- [ ] Clean up all Data exploration
 # Nan Value Percentage per Information
 
 

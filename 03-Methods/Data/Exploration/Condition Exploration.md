@@ -1,0 +1,1 @@
+- [ ] Perform Explorative data Analysis on the cocktails parsed by [A searchable Crystallization database](https://github.com/Hauptman-Woodward/crystallizationDatabase/tree/master)
