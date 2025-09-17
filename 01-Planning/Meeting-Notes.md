@@ -8,3 +8,11 @@
 - cross species complexe ist arm in der PdB 
 - coevolutionen sind schwer zu monitoren 
 - Cosupervisor mit machine learning hintergrund -> Fabian Kern Ph. D. 
+
+# Kern 
+- Boosting
+	- Baum basiert: interpretierbar, einfach
+- Iterativer Process: Sukeziv process komplizierter machen 
+- Training Set in clusters bringen 
+- Start am UKE zur Hilfe von Proteinen dann eventuell zu Kern nach Bahrenfeld
+- 

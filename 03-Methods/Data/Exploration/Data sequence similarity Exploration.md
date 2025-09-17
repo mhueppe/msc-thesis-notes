@@ -5,7 +5,7 @@
 ### WsL download: 
 1. `dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 2. `dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
-3. Install Ubunto from the microsoft store 
+3. Install Ubuntu from the microsoft store 
 4. Confirm installation
 	1. wsl --version
 	2. wsl → drops into an ubunto shell after ubuntu was installed
