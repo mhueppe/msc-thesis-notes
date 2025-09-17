@@ -196,9 +196,34 @@
               "icon": "lucide-file",
               "title": "Condition Exploration"
             }
+          },
+          {
+            "id": "5ca2fdbb78b28a22",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/Pasted image 20250917121004.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250917121004"
+            }
+          },
+          {
+            "id": "2d5ecce82cfcb49c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Exploration/Condition Exploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Condition Exploration"
+            }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -379,29 +404,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d6f3195817a4b033",
+  "active": "550c16228090ec11",
   "lastOpenFiles": [
+    "03-Methods/Data/Exploration/Condition Exploration.md",
+    "Media/Pasted image 20250917234810.png",
+    "Media/Pasted image 20250917234757.png",
+    "Media/Pasted image 20250917234329.png",
+    "01-Planning/Tasks.md",
     "Media/Pasted image 20250917121004.png",
+    "03-Methods/Data/Exploration/General Exploration.md",
+    "03-Methods/Data/Exploration/Data sequence similarity Exploration.md",
+    "03-Methods/Data/Exploration/Data Embedding Exploration.md",
     "Media/Pasted image 20250917120957.png",
     "Media/Pasted image 20250917120954.png",
     "Media/Pasted image 20250917102814.png",
     "Media/Pasted image 20250917102145.png",
     "Media/Pasted image 20250917095912.png",
     "01-Planning/Meeting-Notes.md",
-    "03-Methods/Data/Exploration/Condition Exploration.md",
     "Media/Pasted image 20250916143155.png",
-    "Media/Pasted image 20250916143148.png",
     "03-Methods/Data/Data Acquisition.md",
     "03-Methods/Data/Data Features.md",
     "03-Methods/Data/Data normalization.md",
-    "03-Methods/Data/Exploration/Data sequence similarity Exploration.md",
-    "03-Methods/Data/Exploration/General Exploration.md",
     "03-Methods/Data/Exploration/Data Exploration.canvas",
-    "03-Methods/Data/Exploration/Data Embedding Exploration.md",
-    "Media/Pasted image 20250916135625.png",
-    "Media/Pasted image 20250916133028.png",
-    "Media/Pasted image 20250916132729.png",
-    "01-Planning/Tasks.md",
     "02-Research/Questions.md",
     "01-Planning/General Todo's.md",
     "02-Research/Literature.md",
