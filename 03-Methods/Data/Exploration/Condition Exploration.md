@@ -6,7 +6,9 @@
 	- [x] Temperature and PH ✅ 2025-09-16
 	- [ ] Tokens/Words not incorporated into parsed representation, idea: if all the words that have not been used in the parsed version do not carry any important information that the parsing is good 
 - [x] Perform data analysis for embedding correlations with conditions ✅ 2025-09-17
-
+- [ ] Write Section on Condition Parsing #writing 
+- [ ] Write Section on Condition Parsing Evaluation #writing 
+- [ ] Write Section on Condition Analysis #writing 
 # Compound Distribution 
 
 ![[Pasted image 20250916105549.png]]
@@ -25,7 +27,9 @@
 
 ![[Pasted image 20250917234329.png]]
 # Concentration Distribution for different Pegs
-![[Pasted image 20250916133028.png]]
+![[Pasted image 20250919181635.png]]
+→  concentration slightly correleated to molecular weight
+→  no correlation between PEGs and Temperature/PH found
 # Other Chemicals
 ![[Pasted image 20250916135625.png]]
 

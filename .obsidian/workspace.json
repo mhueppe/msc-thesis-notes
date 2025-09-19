@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "550c16228090ec11",
+            "id": "b5daece4753ab29a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,206 +24,21 @@
             }
           },
           {
-            "id": "a693587f42d32b27",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "7b23a748ec6d27e1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/Pasted image 20250903173553.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250903173553"
-            }
-          },
-          {
-            "id": "b5daece4753ab29a",
+            "id": "5f3f582192ba27a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Research/Protein Chemistry Course/Protein structures.md",
+                "file": "03-Methods/Data/Exploration/Surface Exploration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protein structures"
-            }
-          },
-          {
-            "id": "2e70d0e60d6339c1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/Pasted image 20250903174834.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250903174834"
-            }
-          },
-          {
-            "id": "e02d3afa51e6b474",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Research/Concepts/Protein Surface.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Protein Surface"
-            }
-          },
-          {
-            "id": "d30d1aee03c58efc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Research/Papers/Highly accurate protein structure prediction with AlphaFold.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Highly accurate protein structure prediction with AlphaFold"
-            }
-          },
-          {
-            "id": "7d02f1c2407be0a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Methods/Data/Data Exploration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Exploration"
-            }
-          },
-          {
-            "id": "9c5bb2ffac2ad987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Research/Literature.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Literature"
-            }
-          },
-          {
-            "id": "3d68d0d877e9904c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Planning/Tasks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "6f4de4a058478ba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Methods/Data/Data Acquisition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Acquisition"
-            }
-          },
-          {
-            "id": "99f8418160625468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Research/Literature.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Literature"
-            }
-          },
-          {
-            "id": "2a2a0b463f5f4e8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Methods/Data/Exploration/General Exploration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General Exploration"
-            }
-          },
-          {
-            "id": "d6f3195817a4b033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Methods/Data/Exploration/Condition Exploration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Condition Exploration"
-            }
-          },
-          {
-            "id": "5ca2fdbb78b28a22",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/Pasted image 20250917121004.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250917121004"
-            }
-          },
-          {
-            "id": "2d5ecce82cfcb49c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Methods/Data/Exploration/Condition Exploration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Condition Exploration"
+              "title": "Surface Exploration"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -280,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 200
   },
   "right": {
     "id": "c67abae0fca4caba",
@@ -404,31 +219,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "550c16228090ec11",
+  "active": "5f3f582192ba27a2",
   "lastOpenFiles": [
-    "03-Methods/Data/Exploration/Condition Exploration.md",
-    "Media/Pasted image 20250917234810.png",
-    "Media/Pasted image 20250917234757.png",
-    "Media/Pasted image 20250917234329.png",
-    "01-Planning/Tasks.md",
-    "Media/Pasted image 20250917121004.png",
-    "03-Methods/Data/Exploration/General Exploration.md",
+    "Media/Pasted image 20250919192110.png",
+    "Media/Pasted image 20250919191343.png",
+    "Media/Pasted image 20250919185951.png",
+    "Media/Pasted image 20250919185900.png",
+    "Media/Pasted image 20250919185818.png",
+    "03-Methods/Data/Exploration/Structure Embedding Analysis.md",
+    "03-Methods/Data/Exploration/Surface Exploration.md",
     "03-Methods/Data/Exploration/Data sequence similarity Exploration.md",
-    "03-Methods/Data/Exploration/Data Embedding Exploration.md",
-    "Media/Pasted image 20250917120957.png",
-    "Media/Pasted image 20250917120954.png",
-    "Media/Pasted image 20250917102814.png",
-    "Media/Pasted image 20250917102145.png",
+    "03-Methods/Data/Exploration/Condition Exploration.md",
+    "Media/Pasted image 20250919181635.png",
+    "Media/Pasted image 20250919181359.png",
+    "Media/Pasted image 20250919133844.png",
     "Media/Pasted image 20250917095912.png",
+    "Media/Pasted image 20250919125622.png",
+    "Media/Pasted image 20250919125158.png",
+    "01-Planning/Tasks.md",
+    "03-Methods/Data/Exploration/General Exploration.md",
+    "Untitled.canvas",
+    "03-Methods/Data/Exploration/Data Sequence Embedding Exploration.md",
+    "02-Research/Literature.md",
     "01-Planning/Meeting-Notes.md",
-    "Media/Pasted image 20250916143155.png",
     "03-Methods/Data/Data Acquisition.md",
     "03-Methods/Data/Data Features.md",
     "03-Methods/Data/Data normalization.md",
     "03-Methods/Data/Exploration/Data Exploration.canvas",
     "02-Research/Questions.md",
     "01-Planning/General Todo's.md",
-    "02-Research/Literature.md",
     "Papers/s41586-021-03819-2.pdf",
     "03-Methods/Data/Exploration",
     "02-Research/Protein Chemistry Course/Protein structures.md",
@@ -450,8 +269,6 @@
     "Untitled 1.base",
     "Papers/1-s2.0-S0734975024001538-main.pdf",
     "00-Index/Master Thesis.md",
-    "02-Research/Papers/Untitled.md",
-    "02-Research/Papers/Highly accurate protein structure prediction with AlphaFold 1.md",
     "Papers/s41467-023-37621-7.pdf",
     "Papers/s42003-023-05494-7.pdf",
     "Untitled 1.canvas"

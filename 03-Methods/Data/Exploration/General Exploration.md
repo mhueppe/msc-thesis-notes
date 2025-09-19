@@ -10,6 +10,7 @@
 	- [x] Cluster Proteins based on embedding ✅ 2025-09-02
 	- [x] Explore Similarities in embedding and pH/Temperature/method ✅ 2025-09-03
 - [ ] Clean up all Data exploration
+- [ ] Write Section on general Data Description #writing
 # Nan Value Percentage per Information
 
 
