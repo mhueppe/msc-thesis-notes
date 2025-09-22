@@ -3,6 +3,7 @@
 - [x] Surface information relation to each other ✅ 2025-09-19
 - [x] Surface information relation to descriptions ✅ 2025-09-19
 - [x] Analyze Correlations between surface information and crystallization conditions ✅ 2025-09-19
+- [ ] Write Section on Surface Data Retrieval and Exploration #writing 
 
 # Surface Information distribution 
 ![[Pasted image 20250919125622.png]]

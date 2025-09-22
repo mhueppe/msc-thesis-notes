@@ -4,7 +4,7 @@
 - [x] Analyse Cluster between source organism ✅ 2025-09-03
 - [x] Analyse Cluster between Protein ✅ 2025-09-03
 - [x] Analyse Temperature and Ph correlation ✅ 2025-09-06
-- [ ] Write Section on Sequnce Embedding Analysis #writing 
+- [ ] Write Section on Sequence Embedding Analysis #writing 
 
 # Overall Protein Class similarity
 ![[Pasted image 20250903082418.png]]

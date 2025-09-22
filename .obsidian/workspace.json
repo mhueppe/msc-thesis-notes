@@ -36,9 +36,51 @@
               "icon": "lucide-file",
               "title": "Surface Exploration"
             }
+          },
+          {
+            "id": "c2ab989663381060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Exploration/Condition Exploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Condition Exploration"
+            }
+          },
+          {
+            "id": "78b3c3f121289b09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Exploration/Surface Exploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Surface Exploration"
+            }
+          },
+          {
+            "id": "073611d92387a594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Data normalization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data normalization"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,32 +261,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f3f582192ba27a2",
+  "active": "c2ab989663381060",
   "lastOpenFiles": [
-    "Media/Pasted image 20250919192110.png",
-    "Media/Pasted image 20250919191343.png",
-    "Media/Pasted image 20250919185951.png",
-    "Media/Pasted image 20250919185900.png",
-    "Media/Pasted image 20250919185818.png",
-    "03-Methods/Data/Exploration/Structure Embedding Analysis.md",
+    "Media/Pasted image 20250922095059.png",
+    "Media/Pasted image 20250922093609.png",
+    "Media/Pasted image 20250922093559.png",
+    "Media/Pasted image 20250922093549.png",
+    "03-Methods/Data/Exploration/Data Sequence Embedding Exploration.md",
+    "03-Methods/Data/Exploration/General Exploration.md",
     "03-Methods/Data/Exploration/Surface Exploration.md",
+    "03-Methods/Data/Data normalization.md",
+    "03-Methods/Data/Data Features.md",
+    "03-Methods/Data/Data Acquisition.md",
+    "03-Methods/Data/Exploration/Structure Embedding Analysis.md",
     "03-Methods/Data/Exploration/Data sequence similarity Exploration.md",
     "03-Methods/Data/Exploration/Condition Exploration.md",
-    "Media/Pasted image 20250919181635.png",
-    "Media/Pasted image 20250919181359.png",
-    "Media/Pasted image 20250919133844.png",
-    "Media/Pasted image 20250917095912.png",
-    "Media/Pasted image 20250919125622.png",
-    "Media/Pasted image 20250919125158.png",
     "01-Planning/Tasks.md",
-    "03-Methods/Data/Exploration/General Exploration.md",
+    "Media/Pasted image 20250921232625.png",
+    "Media/Pasted image 20250921232204.png",
+    "Media/Pasted image 20250921231701.png",
+    "Media/Pasted image 20250921231530.png",
+    "Media/Pasted image 20250921231130.png",
+    "Media/Pasted image 20250919192110.png",
+    "Media/Pasted image 20250919191343.png",
     "Untitled.canvas",
-    "03-Methods/Data/Exploration/Data Sequence Embedding Exploration.md",
     "02-Research/Literature.md",
     "01-Planning/Meeting-Notes.md",
-    "03-Methods/Data/Data Acquisition.md",
-    "03-Methods/Data/Data Features.md",
-    "03-Methods/Data/Data normalization.md",
     "03-Methods/Data/Exploration/Data Exploration.canvas",
     "02-Research/Questions.md",
     "01-Planning/General Todo's.md",

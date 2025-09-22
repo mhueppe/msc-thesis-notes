@@ -2,9 +2,9 @@
 - [x] Reimplement analysis presented in paper and check for common chemical cocktails ✅ 2025-09-16
 - [x] Analyze most common cocktails (i.e. combinations of chemicals) ✅ 2025-09-17
 - [x] Analyze most common cocktails partners ✅ 2025-09-17
-- [ ] Analyze Parsing Quality
+- [x] Analyze Parsing Quality ✅ 2025-09-21
 	- [x] Temperature and PH ✅ 2025-09-16
-	- [ ] Tokens/Words not incorporated into parsed representation, idea: if all the words that have not been used in the parsed version do not carry any important information that the parsing is good 
+	- [x] Tokens/Words not incorporated into parsed representation, idea: if all the words that have not been used in the parsed version do not carry any important information that the parsing is good ✅ 2025-09-21
 - [x] Perform data analysis for embedding correlations with conditions ✅ 2025-09-17
 - [ ] Write Section on Condition Parsing #writing 
 - [ ] Write Section on Condition Parsing Evaluation #writing 
@@ -48,3 +48,12 @@
 ![[Pasted image 20250916143148.png]]
 ![[Pasted image 20250916143155.png]]
 
+![[Pasted image 20250922093609.png]]
+Most common (non-stopword) nouns not used for parsing (absolute count value)
+![[Pasted image 20250922093559.png]]
+![[Pasted image 20250922093549.png]]
+![[Pasted image 20250922095059.png]]
+
+Percentage of most (absolute count) missed values
+Percentage for most relative missed values no sense because there are too many that are completly missed i.e. 
+![[Pasted image 20250921232625.png]]
