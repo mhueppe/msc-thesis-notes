@@ -1,3 +1,6 @@
+---
+days: "50"
+---
 
 ```dataviewjs
 // --- CONFIG ---
@@ -40,6 +43,10 @@ for (let g of groups) {
 }
 ```
 
+```dataviewjs
+await dv.view("tasks-dashboard", {container: this.container});
+```
+
 # Open Tasks
 
 ```tasks
@@ -48,6 +55,7 @@ group by path
 sort by path
 sort by priority
 ```
+
 
 
 
@@ -62,5 +70,5 @@ limit 20 by folder
 
 
 
-
-
+Amino acids 
+Pathogenes 

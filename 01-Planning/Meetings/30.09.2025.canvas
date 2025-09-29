@@ -1,0 +1,150 @@
+{
+	"nodes":[
+		{"id":"e8b84c7ae3bc1b5e","type":"group","x":-540,"y":2360,"width":1440,"height":1160,"label":"Surface Plots"},
+		{"id":"4ceab44d8a57c7d7","type":"group","x":280,"y":80,"width":840,"height":620,"label":"Condition Exploration "},
+		{"id":"d247b1a045cda0d0","type":"file","file":"03-Methods/Data/Exploration/Details/Details Exploration (new).md","x":300,"y":180,"width":400,"height":380},
+		{"id":"883b2af268e3c6d3","type":"file","file":"03-Methods/Data/Exploration/Details/Parsing Quality Exploration.md","x":500,"y":1000,"width":400,"height":380},
+		{
+			"id":"ad0518d96875ef9c",
+			"type":"text",
+			"text":"General Exploration",
+			"styleAttributes":{},
+			"x":-640,
+			"y":-40,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1740007508687e10",
+			"type":"text",
+			"text":"Data Exploration",
+			"styleAttributes":{},
+			"x":-200,
+			"y":-220,
+			"width":260,
+			"height":60
+		},
+		{"id":"370a0772ed622d42","type":"file","file":"03-Methods/Data/Exploration/General Exploration.md","x":-800,"y":120,"width":400,"height":640},
+		{"id":"212efa063bb6ba96","type":"file","file":"03-Methods/Data/Exploration/Data Sequence Embedding Exploration.md","x":-1560,"y":980,"width":400,"height":400},
+		{"id":"f123230eaf59491e","type":"file","file":"03-Methods/Data/Exploration/Surface Exploration.md","x":-400,"y":1190,"width":400,"height":570},
+		{"id":"2b103fb4d4de074b","type":"file","file":"Media/Pasted image 20250923191707.png","x":-1920,"y":1890,"width":400,"height":301},
+		{"id":"d0e4654170c22f17","type":"file","file":"Media/Pasted image 20250923191848.png","x":-1320,"y":2120,"width":400,"height":301},
+		{"id":"c668e1aab014aef0","type":"file","file":"03-Methods/Data/Exploration/Details/Details Exploration (original).md","x":720,"y":160,"width":400,"height":480},
+		{"id":"1008d18eba7d037d","type":"file","file":"Media/Pasted image 20250923150059.png","x":320,"y":2380,"width":400,"height":301},
+		{"id":"6120b66eba6c4243","type":"file","file":"Media/Pasted image 20250923150748.png","x":-520,"y":2766,"width":400,"height":301},
+		{"id":"e6f3597ac41dfa31","type":"file","file":"Media/Pasted image 20250923180646.png","x":-520,"y":2380,"width":400,"height":366},
+		{"id":"d7485385938fd485","type":"file","file":"Media/Pasted image 20250923150124.png","x":-100,"y":2380,"width":400,"height":301},
+		{"id":"88b04498d2125d0c","type":"file","file":"Media/Pasted image 20250923151015.png","x":320,"y":2766,"width":400,"height":301},
+		{"id":"3724f2be5076676e","type":"file","file":"Media/Pasted image 20250923143057.png","x":-100,"y":2766,"width":400,"height":324},
+		{"id":"d67c73ed22a18c25","type":"file","file":"Media/Pasted image 20250923151056.png","x":-520,"y":3140,"width":400,"height":301}
+	],
+	"edges":[
+		{
+			"id":"b04afa77b9187aaf",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad0518d96875ef9c",
+			"fromSide":"top",
+			"toNode":"1740007508687e10",
+			"toSide":"bottom"
+		},
+		{
+			"id":"3bc59a2bb0a27a05",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1740007508687e10",
+			"fromSide":"bottom",
+			"toNode":"4ceab44d8a57c7d7",
+			"toSide":"top",
+			"label":"Label"
+		},
+		{
+			"id":"988eb6ac7e509e42",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"370a0772ed622d42",
+			"fromSide":"top",
+			"toNode":"ad0518d96875ef9c",
+			"toSide":"bottom"
+		},
+		{
+			"id":"916a1cd76a6f1671",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"370a0772ed622d42",
+			"fromSide":"bottom",
+			"toNode":"212efa063bb6ba96",
+			"toSide":"top",
+			"label":"Does the Sequence alone hold information?"
+		},
+		{
+			"id":"d61f7c96a900f8c9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"4ceab44d8a57c7d7",
+			"fromSide":"bottom",
+			"toNode":"883b2af268e3c6d3",
+			"toSide":"top",
+			"label":"How good is the parsing?"
+		},
+		{
+			"id":"8e9f8d4356a88a80",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"370a0772ed622d42",
+			"fromSide":"bottom",
+			"toNode":"f123230eaf59491e",
+			"toSide":"top",
+			"label":"What information does the Surface provide?"
+		},
+		{
+			"id":"ae3a453ed22cc551",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"212efa063bb6ba96",
+			"fromSide":"bottom",
+			"toNode":"d0e4654170c22f17",
+			"toSide":"top",
+			"label":"Do different proteins have different surfaces ?"
+		},
+		{
+			"id":"45aa92d23f37704e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"212efa063bb6ba96",
+			"fromSide":"bottom",
+			"toNode":"2b103fb4d4de074b",
+			"toSide":"top",
+			"label":"Do proteins influence pH and temperature?"
+		},
+		{
+			"id":"c01b9378cd3f3762",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f123230eaf59491e",
+			"fromSide":"bottom",
+			"toNode":"d0e4654170c22f17",
+			"toSide":"top"
+		},
+		{
+			"id":"e73a546d94f1af0d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f123230eaf59491e",
+			"fromSide":"bottom",
+			"toNode":"e8b84c7ae3bc1b5e",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"3b0b8e948e9ad3bf"
+	}
+}

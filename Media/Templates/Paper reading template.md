@@ -7,7 +7,9 @@ link: "{{url}}"
 tags:
   - paper
   - reading-notes
+  - "#research"
 ---
+
 [Paper link]()
 # Pass 1 – Bird’s-Eye View (5–10 min)
 

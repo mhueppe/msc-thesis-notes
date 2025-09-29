@@ -1,4 +1,3 @@
-
 # Pathogenes
 
 *pathogene, Pathogene*
@@ -480,5 +479,196 @@ The area of the van der Waals surface that a solvent molecule (modeled as a 1.4 
 6. **Protein SASA** = sum of all atom SASAs.
 ![[Accessible_surface.svg.png | 300]]
 ![[accessible-surface-l.webp|300]]
+
+---
+# Amino Acids 
+
+*amino acid*
+
+Building blocks of proteins
+
+| **Amino acid**              | **3 letter code** | **1 letter code** |
+| --------------------------- | ----------------- | ----------------- |
+| alanine                     | ala               | A                 |
+| arginine                    | arg               | R                 |
+| asparagine                  | asn               | N                 |
+| aspartic acid               | asp               | D                 |
+| asparagine or aspartic acid | asx               | B                 |
+| cysteine                    | cys               | C                 |
+| glutamic acid               | glu               | E                 |
+| glutamine                   | gln               | Q                 |
+| glutamine or glutamic acid  | glx               | Z                 |
+| glycine                     | gly               | G                 |
+| histidine                   | his               | H                 |
+| isoleucine                  | ile               | I                 |
+| leucine                     | leu               | L                 |
+| lysine                      | lys               | K                 |
+| methionine                  | met               | M                 |
+| phenylalanine               | phe               | F                 |
+| proline                     | pro               | P                 |
+| serine                      | ser               | S                 |
+| threonine                   | thr               | T                 |
+| tryptophan                  | trp               | W                 |
+| tyrosine                    | tyr               | Y                 |
+| valine                      | val               | V                 |
+
 ---
 
+# Alanine
+
+*Ala*
+
+A small, nonpolar amino acid with a methyl side chain, often involved in protein structure stabilization.
+
+---
+
+# Arginine
+
+*Arg*
+
+A positively charged amino acid with a guanidinium group, important for protein interactions and binding negatively charged molecules like DNA.
+
+---
+
+# Asparagine
+
+*Asn*
+
+A polar, uncharged amino acid with an amide side chain, often involved in hydrogen bonding and protein stability.
+
+---
+
+# Aspartic acid
+
+*Asp*
+
+A negatively charged amino acid with a carboxyl side chain, frequently found in enzyme active sites and salt bridges.
+
+---
+
+# Cysteine
+
+*Cys*
+
+A polar amino acid containing a thiol group, capable of forming disulfide bonds that stabilize protein structure.
+
+---
+
+# Glutamic acid
+
+*Glu*
+
+A negatively charged amino acid with a longer carboxyl side chain than aspartate, important in neurotransmission and protein interactions.
+
+---
+
+# Glutamine
+
+*Gln*
+
+A polar, uncharged amino acid with an amide side chain, often used in nitrogen metabolism and hydrogen bonding in proteins.
+
+---
+
+# Glycine
+
+*Gly*
+
+The smallest amino acid, with just a hydrogen as its side chain, providing flexibility in protein structures.
+
+---
+
+# Histidine
+
+*His*
+
+A polar amino acid with an imidazole group, often involved in enzyme catalysis due to its ability to gain or lose a proton near physiological pH.
+
+---
+
+# Isoleucine
+
+*Ile*
+
+A nonpolar, branched-chain amino acid, important in hydrophobic interactions within protein cores.
+
+---
+
+# Leucine
+
+*Leu*
+A nonpolar, branched-chain amino acid, frequently found in hydrophobic regions of proteins.
+
+---
+
+# Lysine
+
+*Lys*
+
+A positively charged amino acid with a long aliphatic chain ending in an amino group, important for binding negatively charged molecules.
+
+---
+
+# Methionine
+
+*Met*
+
+A nonpolar amino acid containing sulfur in a thioether group; it is often the starting amino acid in protein synthesis.
+
+---
+
+# Phenylalanine
+
+*Phe*
+
+A nonpolar aromatic amino acid with a benzyl side chain, important in protein structure and precursor to tyrosine.
+
+---
+
+# Proline
+
+*Pro*
+
+A unique, cyclic amino acid that introduces kinks in protein chains and disrupts regular secondary structures.
+
+---
+
+# Serine
+
+*Ser*
+
+A polar amino acid with a hydroxyl side chain, often involved in enzymatic activity and phosphorylation.
+
+---
+
+# Threonine
+
+*Thr*
+
+A polar amino acid with a hydroxyl group, important for hydrogen bonding and often a site of phosphorylation.
+
+---
+
+# Tryptophan
+
+*Trp*
+
+A bulky aromatic amino acid with an indole side chain, important in protein structure and a precursor of serotonin.
+
+---
+
+# Tyrosine
+
+*Tyr*
+
+An aromatic amino acid with a hydroxyl group, serving roles in signaling (via phosphorylation) and as a precursor to catecholamines.
+
+---
+
+# Valine
+
+*Val*
+
+A nonpolar, branched-chain amino acid, commonly found in hydrophobic cores of proteins.
+
+---

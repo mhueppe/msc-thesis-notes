@@ -11,6 +11,7 @@ DataTypes:
 - [x] retrieve ESM protein embedding for each protein ✅ 2025-09-08
 - [ ] retrieve Alphafold MSE matrix for each protein for evolutionary component 
 - [ ] from the 3D structures retrieve surface information 
+- [x] try to parse the protein chemicals also 🆔 mw5an4 🔺 ✅ 2025-09-26
 # Input
 
 ## Sequence Input 

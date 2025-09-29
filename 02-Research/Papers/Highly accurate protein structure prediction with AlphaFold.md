@@ -7,6 +7,7 @@ link:
 tags:
   - paper
   - reading-notes
+  - "#research"
 ---
 [Paper link](s41586-021-03819-2.pdf)
 # Pass 1 – Bird’s-Eye View Abstract/Conclusion (5–10 min)
@@ -99,6 +100,7 @@ Pair representation:
 		- abstract representation of "how likely" are residues i and j to be near each other in 3D
 	- Start: "these residues are close in sequence, so mabye close in space"
 	- After (MSA informed) Evoformer: "these residues are evolutionarily constrained to interact, so they probably sit together in 3D"
+	- 
 Representation interaction: 
 	- MSA and Pair representation update each other repeatedly through Evoformer blocks
 	- MSA → Pair: 

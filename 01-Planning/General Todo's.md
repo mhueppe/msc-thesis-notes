@@ -12,7 +12,7 @@
 - [x] Ask Examination office about supervision from external professor ✅ 2025-08-13
 - [x] Await answer: Examination office ✅ 2025-08-19
 - [x] Write professor back regardless of answer of examination office ✅ 2025-08-15
-- [ ] Make presentation for data analysis 
+- [x] Prepare first status meeting ✅ 2025-09-29
 
 | Contact              | Email Address                  | Contacted                                    | Answer                                       | Help  |
 | -------------------- | ------------------------------ | -------------------------------------------- | -------------------------------------------- | ----- |

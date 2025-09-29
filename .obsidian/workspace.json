@@ -8,9 +8,8 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5daece4753ab29a",
+            "id": "78b3c3f121289b09",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,13 +17,12 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Tasks"
             }
           },
           {
-            "id": "5f3f582192ba27a2",
+            "id": "cc24fdce19e6ac74",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,49 +36,58 @@
             }
           },
           {
-            "id": "c2ab989663381060",
+            "id": "4591219761e2b073",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Methods/Data/Exploration/Condition Exploration.md",
+                "file": "02-Research/Literature.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Condition Exploration"
+              "title": "Literature"
             }
           },
           {
-            "id": "78b3c3f121289b09",
+            "id": "f89d6091212fc43c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Methods/Data/Exploration/Surface Exploration.md",
+                "file": "Media/Definitions/Biochemistry Definitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Surface Exploration"
-            }
-          },
-          {
-            "id": "073611d92387a594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Methods/Data/Data normalization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data normalization"
+              "title": "Biochemistry Definitions"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "b08cd3747cc5d245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4238f771e32ad2e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "01-Planning/Meetings/30.09.2025.canvas",
+                "viewState": {
+                  "x": -203.75977196907314,
+                  "y": 1428.1481222262876,
+                  "zoom": -2.156670770448942
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "30.09.2025"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c67abae0fca4caba",
@@ -228,8 +236,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -241,13 +249,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "266679485448275b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-gantt",
+              "state": {},
+              "icon": "egg",
+              "title": "Smart Gantt"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 201.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -258,61 +276,64 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "timeline-view:Open timeline view": false,
+      "smart-gantt:Smart Gantt": false
     }
   },
-  "active": "c2ab989663381060",
+  "active": "c4238f771e32ad2e",
   "lastOpenFiles": [
-    "Media/Pasted image 20250922095059.png",
-    "Media/Pasted image 20250922093609.png",
-    "Media/Pasted image 20250922093559.png",
-    "Media/Pasted image 20250922093549.png",
-    "03-Methods/Data/Exploration/Data Sequence Embedding Exploration.md",
-    "03-Methods/Data/Exploration/General Exploration.md",
     "03-Methods/Data/Exploration/Surface Exploration.md",
-    "03-Methods/Data/Data normalization.md",
-    "03-Methods/Data/Data Features.md",
-    "03-Methods/Data/Data Acquisition.md",
+    "01-Planning/Meetings/30.09.2025.canvas",
+    "Media/Definitions/Biochemistry Definitions.md",
+    "01-Planning/Tasks.md",
     "03-Methods/Data/Exploration/Structure Embedding Analysis.md",
     "03-Methods/Data/Exploration/Data sequence similarity Exploration.md",
-    "03-Methods/Data/Exploration/Condition Exploration.md",
-    "01-Planning/Tasks.md",
-    "Media/Pasted image 20250921232625.png",
-    "Media/Pasted image 20250921232204.png",
-    "Media/Pasted image 20250921231701.png",
-    "Media/Pasted image 20250921231530.png",
-    "Media/Pasted image 20250921231130.png",
-    "Media/Pasted image 20250919192110.png",
-    "Media/Pasted image 20250919191343.png",
-    "Untitled.canvas",
+    "03-Methods/Data/Exploration/General Exploration.md",
+    "03-Methods/Data/Exploration/Data Sequence Embedding Exploration.md",
     "02-Research/Literature.md",
-    "01-Planning/Meeting-Notes.md",
-    "03-Methods/Data/Exploration/Data Exploration.canvas",
-    "02-Research/Questions.md",
+    "01-Planning/Weekly-Log.md",
     "01-Planning/General Todo's.md",
-    "Papers/s41586-021-03819-2.pdf",
-    "03-Methods/Data/Exploration",
-    "02-Research/Protein Chemistry Course/Protein structures.md",
-    "02-Research/Concepts/Protein Surface.md",
+    "01-Planning/Meetings/16.09.2025.md",
+    "01-Planning/Meetings/30.09.2025.md",
+    "00-Index/Thesis-Timeline.md",
+    "00-Index/Master Thesis.md",
+    "03-Methods/Data/Data Features.md",
+    "03-Methods/Data/Data Acquisition.md",
+    "03-Methods/Data/Exploration/Details/Details Exploration (original).md",
+    "03-Methods/Data/Exploration/Details/Details Exploration (new).md",
+    "03-Methods/Data/Exploration/Details/Parsing Quality Exploration.md",
+    "01-Planning/Tasks Completed.md",
+    "Media/Pasted image 20250923151015.png",
+    "Media/Scripts/tasks-dashboard.js",
+    "Media/Scripts",
+    "README.md",
+    "01-Planning/Meetings",
     "02-Research/Papers/Highly accurate protein structure prediction with AlphaFold.md",
-    "08-Definitions/Biochemistry Definitions.md",
+    "Media/Pasted image 20250927224304.png",
+    "Media/Pasted image 20250927223251.png",
+    "03-Methods/Data/Exploration/Details/Data",
+    "Media/Pasted image 20250927221543.png",
+    "03-Methods/Data/Exploration/Details",
+    "03-Methods/Data/Exploration/Untitled.canvas",
+    "Media/Pasted image 20250927204326.png",
+    "03-Methods/Data/Data normalization.md",
+    "Media/Pasted image 20250926151652.png",
+    "Media/Pasted image 20250926151632.png",
+    "Media/mostCommonMissingCombos 1.pdf",
+    "Media/mostCommonMissingCombos.pdf",
+    "Media/Protein_crystals_grown_in_space.jpg",
+    "Media/Pasted image 20250923191848.png",
+    "Media/Pasted image 20250923191707.png",
+    "02-Research/Papers/A Searchable Database of Crystallization Cocktails in the PDB Analyzing the Chemical Condition Space.md",
     "Media/Templates/Paper reading template.md",
-    "02-Research/Concepts",
-    "02-Research/Papers/Pronucleotide Probes Reveal a Diverging Specificity for AMPylation vs UMPylation of Human and Bacterial Nucleotide Transferases.md",
-    "().md",
-    "Example.md",
+    "www.biorxiv.org/content/10.1101",
+    "www.biorxiv.org/content",
+    "www.biorxiv.org",
+    "Untitled.canvas",
+    "03-Methods/Data/Exploration/Data Exploration.canvas",
     "03-Methods/Pipeline/Untitled.canvas",
     "msc-thesis-canvas.canvas",
-    "README.md",
-    "03-Methods/Pipeline",
-    "02-Research/Papers/Discovery of a new evolutionarily conserved short linear F-actin binding motif.md",
-    "01-Planning/pipeline.puml",
-    "Untitled.base",
-    "Untitled 1.base",
-    "Papers/1-s2.0-S0734975024001538-main.pdf",
-    "00-Index/Master Thesis.md",
-    "Papers/s41467-023-37621-7.pdf",
-    "Papers/s42003-023-05494-7.pdf",
     "Untitled 1.canvas"
   ]
 }

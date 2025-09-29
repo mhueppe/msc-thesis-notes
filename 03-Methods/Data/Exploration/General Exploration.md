@@ -9,7 +9,8 @@
 - [x] Encode Protein Sequence ✅ 2025-09-03
 	- [x] Cluster Proteins based on embedding ✅ 2025-09-02
 	- [x] Explore Similarities in embedding and pH/Temperature/method ✅ 2025-09-03
-- [ ] Clean up all Data exploration
+- [x] Clean up all Data exploration #maintanence ✅ 2025-09-26
+- [x] Split utils up by functionality #maintanence ✅ 2025-09-26
 - [ ] Write Section on general Data Description #writing
 # Nan Value Percentage per Information
 
@@ -34,7 +35,7 @@
 ![[solventDistribution.pdf]]
 
 # Description Length
-![[descriptionDistribution.pdf]]
+
 ![[descriptionDistribution 1.pdf]]
 # Resolution
 
@@ -56,3 +57,6 @@
 # Isoelectric Point 
 ![[Pasted image 20250826192533.png]]
 ![[Pasted image 20250906132041.png]]
+![[Pasted image 20250923191707.png]]
+
+![[Pasted image 20250923191848.png]]

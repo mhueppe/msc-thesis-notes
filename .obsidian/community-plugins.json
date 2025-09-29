@@ -9,5 +9,8 @@
   "obsidian-tasks-plugin",
   "html-checkboxes",
   "obsidian-qa",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-charts",
+  "advanced-canvas",
+  "smart-gantt"
 ]
