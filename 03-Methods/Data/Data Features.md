@@ -9,8 +9,8 @@ DataTypes:
 - [x] Filter out the refinement information for loss incorporation ✅ 2025-08-17
 - [x] Analyse missing values for all proteins ⛔ fg69a2 ✅ 2025-09-03
 - [x] retrieve ESM protein embedding for each protein ✅ 2025-09-08
-- [ ] retrieve Alphafold MSE matrix for each protein for evolutionary component 
-- [ ] from the 3D structures retrieve surface information 
+- [ ] retrieve Alphafold MSE matrix for each protein for evolutionary component  #onhold
+- [ ] from the 3D structures retrieve surface information #onhold 
 - [x] try to parse the protein chemicals also 🆔 mw5an4 🔺 ✅ 2025-09-26
 # Input
 

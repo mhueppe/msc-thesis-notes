@@ -1,7 +1,7 @@
 - [x] install windows subsystem for linux ✅ 2025-09-09
 - [x] install ubuntu ✅ 2025-09-09
 - [x] install mmseqs on the ubuntu ✅ 2025-09-09
-- [ ] look into other sequence similarity scores
+- [ ] look into other sequence similarity scores #research 
 ### WsL download: 
 1. `dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 2. `dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart

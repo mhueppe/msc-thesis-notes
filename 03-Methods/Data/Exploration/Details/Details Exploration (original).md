@@ -1,4 +1,4 @@
-- [x] read [A searchable Crystallization database](https://github.com/Hauptman-Woodward/crystallizationDatabase/tree/master) #research 
+- [x] read [A searchable Crystallization database](https://github.com/Hauptman-Woodward/crystallizationDatabase/tree/master) #research ✅ 2025-09-18
 - [x] Perform Explorative data Analysis on the cocktails parsed by [A searchable Crystallization database](https://github.com/Hauptman-Woodward/crystallizationDatabase/tree/master) ✅ 2025-09-22
 - [x] Reimplement analysis presented in paper and check for common chemical cocktails ✅ 2025-09-16
 - [x] Analyze most common cocktails (i.e. combinations of chemicals) ✅ 2025-09-17
@@ -6,8 +6,8 @@
 - [x] Perform data analysis for embedding correlations with conditions ✅ 2025-09-17
 - [x] What are the most common components for the missed chemicals? ✅ 2025-09-25
 - [x] How do the samples for the missed components look like? What is missed: Protein solution ✅ 2025-09-25
-- [x] Rerun data exploration after completing ⛔ mw5an4 ✅ 2025-09-27
-- [x] Clean up description Exploration ✅ 2025-09-27
+- [ ] Rerun data exploration after completing #maintenance ⛔ mw5an4 
+- [ ] Clean up description Exploration  #maintenance
 - [ ] Write Section on Condition Parsing #writing 
 - [ ] Write Section on Condition Parsing Evaluation #writing 
 - [ ] Write Section on Condition Analysis #writing 

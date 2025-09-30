@@ -6,9 +6,10 @@
 - [x] use chatGPT to normalize free text information into vectorized format ✅ 2025-09-14
 	- →  did not work ✅ 2025-09-14
 - [x] transform methods into uniform method set ✅ 2025-09-14
-- [x] Clean up Data preprocessing ✅ 2025-09-25
-- [x] Clean up details parsing ✅ 2025-09-25
-- [x] Clean up utils ✅ 2025-09-25
+- [x] Clean up Data preprocessing  #maintanence  ✅ 2025-09-25
+- [x] Clean up details parsing #maintanence ✅ 2025-09-25
+- [x] Clean up utils #maintanence  ✅ 2025-09-25
+
 
 When looking into the different fields and their values as done in [[Data Features]] it becomes clear the data has to be normalized. Some samples can be seen in the following: 
 

@@ -1,5 +1,5 @@
-- [ ] Get the code from [Structure-aware Protein self-supervied Learning](https://arxiv.org/abs/2204.04213) 
-- [ ] Look into other Structure embeddings
+- [ ] Get the code from [Structure-aware Protein self-supervied Learning](https://arxiv.org/abs/2204.04213) #onhold 
+- [ ] Look into other Structure embeddings #onhold 
 
 
 |Representation|Key components / what is encoded|Pros|Cons|

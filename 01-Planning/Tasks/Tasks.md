@@ -61,14 +61,45 @@ sort by priority
 
 
 # Closed Tasks
+```dataviewjs
+const tasks = dv.pages()
+    .file.tasks
+    .where(t => t.completed && t.done); // only completed tasks with a done date
+
+// group by folder
+let grouped = {};
+for (let t of tasks) {
+    let folder = t.path.split("/").slice(0, -1).join("/") || "/";
+    if (!grouped[folder]) grouped[folder] = [];
+    grouped[folder].push(t);
+}
+
+// build array of {folder, latestDone}
+let folders = Object.entries(grouped).map(([folder, ts]) => {
+    let latest = ts.map(x => x.done).sort((a,b) => b - a)[0]; // newest date
+    return {folder, latest, tasks: ts};
+});
+
+// sort folders by most recent done-date
+folders.sort((a,b) => b.latest - a.latest);
+
+// display
+for (let f of folders) {
+    dv.header(3, f.folder + " (latest done: " + f.latest.toFormat("yyyy-MM-dd") + ")");
+    dv.table(["Task", "Done"],
+        f.tasks
+            .sort((a,b) => b.done - a.done) // newest tasks first
+            .slice(0, 5) // show top 5 tasks per folder
+            .map(t => [t.text, t.done.toFormat("yyyy-MM-dd")])
+    );
+}
+
+```
 ```tasks
 done
 group by folder
-sort by path
-limit 20 by folder
+sort by done reverse
+limit 15 by folder
 ```
 
 
-
-Amino acids 
-Pathogenes 

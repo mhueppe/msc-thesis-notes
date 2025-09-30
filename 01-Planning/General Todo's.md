@@ -1,12 +1,12 @@
-- [x] Look into database
-- [x] Write data base proposal part ✅ 2025-08-12
-- [x] Look into different model options
-- [x] Write model proposal part
-- [x] Look into different training options
-- [x] Write Training proposal part
-- [x] Send other professor and Itzen the proposal 
-- [x] familiarize yourself with the database
-- [x] look into https://csgid.org/
+- [x] Look into database ✅ 2025-08-09
+- [x] Write data base proposal part ✅ 2025-08-09
+- [x] Look into different model options ✅ 2025-08-10
+- [x] Write model proposal part ✅ 2025-08-10
+- [x] Look into different training options ✅ 2025-08-10
+- [x] Write Training proposal part ✅ 2025-08-10
+- [x] Send other professor and Itzen the proposal  ✅ 2025-08-12
+- [x] familiarize yourself with the database ✅ 2025-08-12
+- [x] look into https://csgid.org/ ✅ 2025-08-12
 - [x] Write Fabian Kern Ph. D. for Co-Supervision 🔺 ✅ 2025-08-12
 - [x] Answer from Co-supervisor? ✅ 2025-08-13
 - [x] Ask Examination office about supervision from external professor ✅ 2025-08-13

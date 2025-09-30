@@ -6,9 +6,10 @@
 - [ ] Look into Surface Representation using [MaSif](file:///C:/Users/michi/Downloads/s41592-019-0666-6.pdf) #research only do two passes as this is only background and will not be used (dMasif is much faster) 🆔 bk9usv
 - [ ] Look into follow up paper for Surface Representation using [Differentiable MaSIF](https://openaccess.thecvf.com/content/CVPR2021/papers/Sverrisson_Fast_End-to-End_Learning_on_Protein_Surfaces_CVPR_2021_paper.pdf) #research 🆔 08cdcb ⛔ bk9usv
 - [ ] Look into [Differentiable Masif Code](https://github.com/FreyrS/dMaSIF) #research ⛔ 08cdcb
-- [ ] Rerun Data extraction now including total area, number of atom, roughness and classes 🔺 
-- [ ] Look into processing errors for files, examples: 7lh5.cif, 8cqw.cif
+- [x] Rerun Data extraction now including total area, number of atom, roughness and classes 🔺 ✅ 2025-09-30
+- [x] Look into processing errors for files, examples: 7lh5.cif, 8cqw.cif ✅ 2025-09-30
 - [ ] Write Section on Surface Data Retrieval and Exploration #writing 
+- [x] Check net charge (from sequence with respect to crystallization pH) ✅ 2025-09-30
 
 |Descriptor|What it Captures|High Value Meaning|
 |---|---|---|
@@ -153,6 +154,7 @@ where \(Q_{\text{total}}\) is the sum of charges of ionizable residues at pH ~7.
 # Surface Information distribution 
 
 ![[Pasted image 20250923133818.png]]
+![[Pasted image 20250930190926.png]]
 ![[Pasted image 20250923134535.png]]
 ![[Pasted image 20250923135847.png]]
 ![[Pasted image 20250923140038.png]]

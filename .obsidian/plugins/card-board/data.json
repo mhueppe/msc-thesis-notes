@@ -1,0 +1,123 @@
+{
+  "version": "0.13.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "columns": [
+          {
+            "tag": "untagged",
+            "data": {
+              "collapsed": false,
+              "name": "Open"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Research",
+              "tag": "#research"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Writing",
+              "tag": "#writing"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Maintenance",
+              "tag": "#maintenance"
+            }
+          },
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 4,
+              "limit": 10,
+              "name": "Completed"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "On hold",
+              "tag": "#onhold"
+            }
+          }
+        ],
+        "filters": [
+          {
+            "tag": "pathFilter",
+            "data": "03-Methods/Data"
+          }
+        ],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "Data Tasks",
+        "showColumnTags": true,
+        "showFilteredTags": true
+      },
+      {
+        "columns": [
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Open",
+              "tag": "#research"
+            }
+          },
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 1,
+              "limit": 10,
+              "name": "Closed"
+            }
+          }
+        ],
+        "filters": [
+          {
+            "tag": "tagFilter",
+            "data": "research"
+          },
+          {
+            "tag": "tagFilter",
+            "data": "research/"
+          }
+        ],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "Research",
+        "showColumnTags": true,
+        "showFilteredTags": true
+      }
+    ],
+    "globalSettings": {
+      "defaultColumnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "otherTags": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "filters": [],
+      "firstDayOfWeek": "FromLocale",
+      "ignoreFileNameDates": false,
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "taskCompletionInLocalTime": true,
+      "taskCompletionShowUtcOffset": true
+    }
+  }
+}
