@@ -14,7 +14,7 @@
           {
             "tag": "namedTag",
             "data": {
-              "collapsed": false,
+              "collapsed": true,
               "name": "Research",
               "tag": "#research"
             }
@@ -22,7 +22,7 @@
           {
             "tag": "namedTag",
             "data": {
-              "collapsed": false,
+              "collapsed": true,
               "name": "Writing",
               "tag": "#writing"
             }
@@ -30,7 +30,7 @@
           {
             "tag": "namedTag",
             "data": {
-              "collapsed": false,
+              "collapsed": true,
               "name": "Maintenance",
               "tag": "#maintenance"
             }
@@ -38,7 +38,7 @@
           {
             "tag": "completed",
             "data": {
-              "collapsed": false,
+              "collapsed": true,
               "index": 4,
               "limit": 10,
               "name": "Completed"
@@ -47,7 +47,7 @@
           {
             "tag": "namedTag",
             "data": {
-              "collapsed": false,
+              "collapsed": true,
               "name": "On hold",
               "tag": "#onhold"
             }

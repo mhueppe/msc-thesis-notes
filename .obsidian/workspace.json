@@ -24,25 +24,6 @@
             }
           },
           {
-            "id": "e56e679a299cb130",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "01-Planning/Meetings/30.09.2025.canvas",
-                "viewState": {
-                  "x": 3242.647741610066,
-                  "y": 1929.1957521787888,
-                  "zoom": -0.6243780156705059
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "30.09.2025"
-            }
-          },
-          {
             "id": "83c64f548723e975",
             "type": "leaf",
             "pinned": true,
@@ -55,31 +36,17 @@
             }
           },
           {
-            "id": "c4238f771e32ad2e",
+            "id": "9b436195ebc693df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Methods/Data/Exploration/Structure Embedding Analysis.md",
+                "file": "03-Methods/Data/Exploration/Solvent content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structure Embedding Analysis"
-            }
-          },
-          {
-            "id": "fa47fd8124ac3d7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Methods/Data/Exploration/General Exploration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General Exploration"
+              "title": "Solvent content"
             }
           },
           {
@@ -88,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Methods/Data/Data normalization.md",
+                "file": "03-Methods/Data/Exploration/Surface/Surface Exploration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data normalization"
+              "title": "Surface Exploration"
             }
           },
           {
@@ -102,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Methods/Data/Exploration/Details/Details Exploration (original).md",
+                "file": "02-Research/Papers/Fast end-to-end learning on protein surfaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Details Exploration (original)"
+              "title": "Fast end-to-end learning on protein surfaces"
             }
           },
           {
@@ -122,20 +89,6 @@
               },
               "icon": "lucide-file",
               "title": "Questions"
-            }
-          },
-          {
-            "id": "eeac4884e08dda65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Planning/Meetings/30.09.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "30.09.2025"
             }
           },
           {
@@ -156,21 +109,37 @@
             "id": "5178febc3d24738f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Media/Pasted image 20250923191707.png"
+                "file": "03-Methods/Data/Exploration/Details/Parsing Quality Exploration.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250923191707"
+              "icon": "lucide-file",
+              "title": "Parsing Quality Exploration"
             }
           },
           {
-            "id": "a0e7d84bbba5f64d",
+            "id": "eb2a60c11d1a43fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Methods/Data/Exploration/Surface Exploration.md",
+                "file": "03-Methods/Data/Exploration/Structure Embedding Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Structure Embedding Analysis"
+            }
+          },
+          {
+            "id": "81801e618e31dbcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Exploration/Surface/Surface Exploration.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,31 +148,15 @@
             }
           },
           {
-            "id": "c7b5670338bc318d",
+            "id": "45599ce95c20526d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "03-Methods/Data/Exploration/General Exploration.md",
-                "mode": "source",
-                "source": false
+                "file": "Media/Pasted image 20251011190918.png"
               },
-              "icon": "lucide-file",
-              "title": "General Exploration"
-            }
-          },
-          {
-            "id": "34258a501c925cf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Methods/Data/Exploration/Details/Details Exploration (original).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Details Exploration (original)"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251011190918"
             }
           },
           {
@@ -219,21 +172,77 @@
             }
           },
           {
-            "id": "14b9f5751125e2be",
+            "id": "14d93255e0027379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Planning/Meetings/30.09.2025.md",
+                "file": "03-Methods/Data/Exploration/Surface Exploration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30.09.2025"
+              "title": "Surface Exploration"
+            }
+          },
+          {
+            "id": "46a3c8ab606416b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Exploration/General Exploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Exploration"
+            }
+          },
+          {
+            "id": "fbbc2802e8a1e655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Exploration/General Exploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Exploration"
+            }
+          },
+          {
+            "id": "d078e5b12c9e2c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Research/Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questions"
+            }
+          },
+          {
+            "id": "c0f0b392bd114e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Exploration/Surface/Surface Latent Representation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Surface Latent Representation"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -290,7 +299,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 357.5
   },
   "right": {
     "id": "c67abae0fca4caba",
@@ -394,23 +403,13 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "d1e4c33e500942d5",
-            "type": "leaf",
-            "state": {
-              "type": "smart-gantt",
-              "state": {},
-              "icon": "egg",
-              "title": "Smart Gantt"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -426,60 +425,60 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "fa47fd8124ac3d7d",
+  "active": "9b436195ebc693df",
   "lastOpenFiles": [
-    "Media/Pasted image 20250930194110.png",
-    "03-Methods/Data/Exploration/Data Sequence Embedding Exploration.md",
-    "03-Methods/Data/Exploration/Structure Embedding Analysis.md",
-    "01-Planning/Meetings/30.09.2025.canvas",
-    "01-Planning/Tasks/Tasks.md",
-    "03-Methods/Data/Exploration/Surface Exploration.md",
-    "Media/Pasted image 20250930190926.png",
-    "01-Planning/Meetings/30.09.2025.md",
-    "03-Methods/Data/Exploration/Details/Details Exploration (original).md",
-    "Media/Pasted image 20250917234810.png",
-    "03-Methods/Data/Exploration/Details/Details Exploration (new).md",
+    "Media/Pasted image 20251014111025.png",
+    "Media/Pasted image 20251014111018.png",
+    "Media/Pasted image 20251014111006.png",
+    "Media/Pasted image 20251014110955.png",
+    "Media/Pasted image 20251014110932.png",
+    "Media/Pasted image 20251014110928.png",
+    "Media/Pasted image 20251014100656.png",
+    "08-Appendix/Dataset-Info.md",
+    "03-Methods/Data/Exploration/Solvent content.md",
+    "03-Methods/Data/Data Features.md",
+    "03-Methods/Data/Data normalization.md",
+    "03-Methods/Data/Data Acquisition.md",
+    "02-Research/Papers/Dephosphocholinatoin by Legionella effector Lem3 functions through remodelling of the switch II region of Rab1b.md",
+    "02-Research/Papers/Fast end-to-end learning on protein surfaces.md",
+    "02-Research/Papers/Highly accurate protein structure prediction with AlphaFold.md",
+    "02-Research/Papers/Pronucleotide Probes Reveal a Diverging Specificity for AMPylation vs UMPylation of Human and Bacterial Nucleotide Transferases.md",
+    "02-Research/Protein Chemistry Course/Protein structures.md",
+    "03-Methods/Data/Exploration/Space Group.md",
+    "Media/Pasted image 20251013173818.png",
+    "Media/Pasted image 20251013173812.png",
+    "Media/Pasted image 20251013172530.png",
+    "Media/Pasted image 20251013172523.png",
+    "03-Methods/Data/Exploration/Details/Details Exploration.md",
+    "03-Methods/Data/Exploration/Surface/Surface Exploration.md",
+    "03-Methods/Data/Exploration/Surface/Surface Latent Representation.md",
     "03-Methods/Data/Exploration/Details/Parsing Quality Exploration.md",
     "03-Methods/Data/Exploration/General Exploration.md",
-    "Media/Pasted image 20250923191707.png",
-    "03-Methods/Data/Data normalization.md",
+    "03-Methods/Data/Exploration/Data Sequence Embedding Exploration.md",
+    "03-Methods/Data/Exploration/Structure Embedding Analysis.md",
     "02-Research/Questions.md",
-    "Media/Definitions/Biochemistry Definitions.md",
-    "02-Research/Literature.md",
-    "03-Methods/Data/Exploration/Data sequence similarity Exploration.md",
-    "03-Methods/Data/Data Acquisition.md",
-    "03-Methods/Data/Data Features.md",
+    "03-Methods/Data/Exploration/Surface/DMaSIF.md",
+    "01-Planning/Tasks/Tasks.md",
+    "01-Planning/Meetings/30.09.2025.md",
+    "03-Methods/Data/Exploration/Details/Details Exploration (new).md",
+    "03-Methods/Data/Exploration/Surface",
+    "03-Methods/Data/Exploration/Stöchiometrie prediction.md",
+    "03-Methods/Installation and Commands.md",
+    "01-Planning/Meetings/30.09.2025.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Media/free-vector-question-mark-icon_901408-624.xcf",
+    "www.biorxiv.org/content/10.1101",
+    "www.biorxiv.org/content",
+    "www.biorxiv.org",
     "01-Planning/Tasks",
-    "2025-09-30.md",
-    "Media/Scripts/demo_file.md",
     "Media/Scripts/view.js",
     "Media/Scripts/view.css",
-    "01-Planning/General Todo's.md",
-    "01-Planning/Weekly-Log.md",
-    "01-Planning/Meetings/16.09.2025.md",
-    "00-Index/Thesis-Timeline.md",
-    "00-Index/Master Thesis.md",
-    "01-Planning/Tasks Completed.md",
-    "Media/Pasted image 20250923151015.png",
     "Media/Scripts/tasks-dashboard.js",
     "Media/Scripts",
-    "README.md",
-    "01-Planning/Meetings",
-    "Media/Pasted image 20250927224304.png",
-    "Media/Pasted image 20250927223251.png",
-    "03-Methods/Data/Exploration/Details/Data",
-    "Media/Pasted image 20250927221543.png",
-    "03-Methods/Data/Exploration/Details",
     "03-Methods/Data/Exploration/Untitled.canvas",
-    "Media/Pasted image 20250927204326.png",
-    "Media/Pasted image 20250926151652.png",
-    "Media/Pasted image 20250926151632.png",
-    "Media/mostCommonMissingCombos 1.pdf",
-    "Media/mostCommonMissingCombos.pdf",
-    "Untitled.canvas",
     "03-Methods/Data/Exploration/Data Exploration.canvas",
     "03-Methods/Pipeline/Untitled.canvas",
-    "msc-thesis-canvas.canvas",
-    "Untitled 1.canvas"
+    "msc-thesis-canvas.canvas"
   ]
 }

@@ -1,0 +1,12 @@
+.admonition.qa {
+    border-left: 4px solid var(--interactive-accent);
+    background-color: var(--background-primary-alt);
+    padding: 0.6em 0.9em;
+    margin: 0.6em 0;
+    border-radius: 8px;
+}
+
+.admonition.qa .admonition-title {
+    font-weight: bold;
+    color: var(--text-accent);
+}

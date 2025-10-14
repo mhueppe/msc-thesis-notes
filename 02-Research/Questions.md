@@ -16,7 +16,17 @@ Q: Do you have any proteins where you are somewhat confident that they are cryst
 A: ✏️ Rab1a or check out crystals in crystallization data bank under Itzen
 Q: What Software/Algorithms are you typically using for Protein analysis?  
 A: ✏️ CRIMS
+Q: No surface features seem to have a large influence on the crystallization features, what are other possible chemical influence points? 
+A: 
+Q: Is it enough to use the surface as input or is the structure and chemical components important as well? 
+A: ✏️ 
+Q: How would you model packing forces? 
+A: 
+Q: What conditions should be modeled?
+A:  
 ```
+
+
 
 
 

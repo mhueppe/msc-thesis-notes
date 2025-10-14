@@ -1,0 +1,1 @@
+- [ ] predict Stöchiometrie from sequence
