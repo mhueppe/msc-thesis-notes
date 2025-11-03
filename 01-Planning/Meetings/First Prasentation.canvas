@@ -1,0 +1,62 @@
+{
+	"nodes":[
+		{"id":"4c5404a5206f47aa","type":"group","x":720,"y":-880,"width":1040,"height":800,"label":"Combinatory Analysis"},
+		{"id":"505b3c712e1085e5","type":"group","x":-500,"y":-380,"width":300,"height":300,"label":"Untitled group"},
+		{
+			"id":"17bf77c57023e422",
+			"type":"text",
+			"text":"First Prasentation\n",
+			"styleAttributes":{},
+			"x":280,
+			"y":-1400,
+			"width":260,
+			"height":60
+		},
+		{"id":"8ac7909a875f4a4e","type":"file","file":"03-Methods/Data/Acquisition/CRIMS.md","x":2280,"y":-840,"width":400,"height":400},
+		{"id":"07ed4bb24fa3a102","type":"file","file":"03-Methods/Data/Acquisition/Data Acquisition.md","x":-1280,"y":-960,"width":400,"height":740},
+		{"id":"a29d9b8d928edb86","type":"file","file":"03-Methods/Data/Exploration/General Exploration.md","x":-80,"y":-1040,"width":400,"height":400}
+	],
+	"edges":[
+		{
+			"id":"c0f02aa7716a99da",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"17bf77c57023e422",
+			"fromSide":"bottom",
+			"toNode":"07ed4bb24fa3a102",
+			"toSide":"top"
+		},
+		{
+			"id":"5352cfaaa2a44dc8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"17bf77c57023e422",
+			"fromSide":"bottom",
+			"toNode":"a29d9b8d928edb86",
+			"toSide":"top"
+		},
+		{
+			"id":"d0f9626e254cbf90",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"17bf77c57023e422",
+			"fromSide":"bottom",
+			"toNode":"4c5404a5206f47aa",
+			"toSide":"top"
+		},
+		{
+			"id":"819f80c878847a2b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"17bf77c57023e422",
+			"fromSide":"bottom",
+			"toNode":"8ac7909a875f4a4e",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"fb01729072f3eb56"
+	}
+}

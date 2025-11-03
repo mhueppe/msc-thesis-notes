@@ -12,7 +12,7 @@
 - [x] Clean up all Data exploration #maintanence ✅ 2025-09-26
 - [x] Split utils up by functionality #maintanence ✅ 2025-09-26
 - [x] Analyse correlation between sequence length and atom count, based on classes, there seems to be a class dependent correlation, filter for monomers and polymers @completed(2025-10-13T08:25:14+02:00)
-- [ ] analyse dependent distributions for sequence length pi and protein 
+- [x] analyse dependent distributions for sequence length pi and protein ✅ 2025-10-14
 - [ ] Write Section on general Data Description #writing
 # Nan Value Percentage per Information
 
@@ -24,6 +24,7 @@
 
 ![[temperatureDistribution.pdf]]
 ## Crystal Growth pH
+![[Pasted image 20251101215914.png]]
 
 ![[phDistribution.pdf]]
 ![[Pasted image 20250826192746.png]]
@@ -71,8 +72,12 @@ What are the different lines here?
 ![[Pasted image 20251008180501.png]]
 
 ![[Pasted image 20251013081153.png]]
-- [ ] read files and calculate modeled residue count vs deposited one → explain difference between sequence based mean atom count vs. calculated one 
-	- [ ] is_protein() →  fraction between non-protein atoms and protein-atoms 
+- [x] read files and calculate modeled residue count vs deposited one → explain difference between sequence based mean atom count vs. calculated one  @completed(2025-10-14T11:35:29+02:00)
+	- [x] is_protein() →  fraction between non-protein atoms and protein-atoms ✅ 2025-10-20
+
+# Amino Acid occurence
+![[Pasted image 20251103101458.png]]
+
 # Wrong atom count
 	3RED: 
 

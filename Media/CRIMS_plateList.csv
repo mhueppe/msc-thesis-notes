@@ -1,0 +1,77 @@
+Barcode,Setup Date,User,Screen,Shelf,Sample,Concentration,Protein Volume,Location,Plate Type,Comments
+SD30010708,Tue 30 Sep 2025 10:25,vpogenberg,HH_QIAGEN_JCSG-Core-I,1,HJI006_9120,10,100,Imager 19,Swissci,
+SD30010707,Tue 30 Sep 2025 10:22,vpogenberg,HH_QIAGEN_JCSG-Core-IV,1,HJI006_9120,10,100,Imager 19,Swissci,
+SD30010706,Tue 30 Sep 2025 10:19,vpogenberg,HH_QIAGEN_JCSG-Core-III,1,HJI006_9120,10,100,Imager 19,Swissci,
+SD30010705,Tue 30 Sep 2025 10:17,vpogenberg,HH_QIAGEN_JCSG-Core-II,1,HJI006_9120,10,100,Imager 19,Swissci,
+SD30010687,Tue 23 Sep 2025 10:31,vpogenberg,HH_QIAGEN_JCSG-Core-IV,1,HJI006_09125,10,100,Imager 19,Swissci,
+SD30010688,Tue 23 Sep 2025 10:28,vpogenberg,HH_QIAGEN_JCSG-Core-II,1,HJI006_09125,10,100,Imager 19,Swissci,
+SD30010689,Tue 23 Sep 2025 10:25,vpogenberg,HH_QIAGEN_JCSG-Core-III,1,HJI006_09125,10,100,Imager 19,Swissci,
+SD30010690,Tue 23 Sep 2025 10:22,vpogenberg,HH_QIAGEN_JCSG-Core-I,1,HJI006_09125,10,100,Imager 19,Swissci,
+SD30010647,Tue 26 Aug 2025 12:26,vpogenberg,HH_QIAGEN_JCSG-Core-IV,1,XTEN30_3,25,100,Imager 19,Swissci,
+SD30010646,Tue 26 Aug 2025 12:23,vpogenberg,HH_QIAGEN_JCSG-Core-II,1,XTEN30_3,25,100,Imager 19,Swissci,
+SD30010645,Tue 26 Aug 2025 12:20,vpogenberg,HH_QIAGEN_JCSG-Core-I,1,XTEN30_3,25,100,Imager 19,Swissci,
+SD30010644,Tue 26 Aug 2025 12:18,vpogenberg,HH_QIAGEN_JCSG-Core-III,1,XTEN30_3,25,100,Imager 19,Swissci,
+SD30010469,Mon 07 Jul 2025 10:01,vpogenberg,HH_QIAGEN_JCSG-Core-III,1,HJI006_12025,10,100,Imager 19,Swissci,
+SD30010468,Mon 07 Jul 2025 09:58,vpogenberg,HH_QIAGEN_JCSG-Core-IV,1,HJI006_12025,10,100,Imager 19,Swissci,
+SD30010467,Mon 07 Jul 2025 09:55,vpogenberg,HH_QIAGEN_JCSG-Core-I,1,HJI006_12025,10,100,Imager 19,Swissci,
+SD30010466,Mon 07 Jul 2025 09:52,vpogenberg,HH_QIAGEN_JCSG-Core-II,1,HJI006_12025,10,100,Imager 19,Swissci,
+SD30010310,Wed 28 May 2025 10:26,vpogenberg,HH_QIAGEN_ProComplex,1,XTEN30_3,10,100,Imager 19,Swissci,
+SD30010309,Wed 28 May 2025 10:22,vpogenberg,HH_QIAGEN_JCSG-Core-III,1,XTEN30_3,10,100,Imager 19,Swissci,
+SD30010308,Wed 28 May 2025 10:20,vpogenberg,HH_QIAGEN_JCSG-Core-IV,1,XTEN30_3,10,100,Imager 19,Swissci,
+SD30010307,Wed 28 May 2025 10:17,vpogenberg,HH_QIAGEN_JCSG-Core-II,1,XTEN30_3,10,100,Imager 19,Swissci,
+SD30010306,Wed 28 May 2025 10:15,vpogenberg,HH_QIAGEN_JCSG-Core-I,1,XTEN30_3,10,100,Imager 19,Swissci,
+SD30009889,Thu 05 Dec 2024 10:31,vpogenberg,HH_QIAGEN_ProComplex,1,HYPE_SeFic,10,100,Imager 19,Swissci,"shelf 1 = H1374 = HYPE102_306_SeFic_H72A
+shelf 3 = H1375 = HYPE102_445_SeFic_domain"
+SD30009889,Thu 05 Dec 2024 10:31,vpogenberg,HH_QIAGEN_ProComplex,3,HYPE_SeFic,10,100,Imager 19,Swissci,"shelf 1 = H1374 = HYPE102_306_SeFic_H72A
+shelf 3 = H1375 = HYPE102_445_SeFic_domain"
+SD30009888,Thu 05 Dec 2024 10:27,vpogenberg,HH_QIAGEN_JCSG-Core-IV,1,HYPE_SeFic,10,100,Imager 19,Swissci,"shelf 1 = H1374 = HYPE102_306_SeFic_H72A
+shelf 3 = H1375 = HYPE102_445_SeFic_domain"
+SD30009888,Thu 05 Dec 2024 10:27,vpogenberg,HH_QIAGEN_JCSG-Core-IV,3,HYPE_SeFic,10,100,Imager 19,Swissci,"shelf 1 = H1374 = HYPE102_306_SeFic_H72A
+shelf 3 = H1375 = HYPE102_445_SeFic_domain"
+SD30009887,Thu 05 Dec 2024 10:24,vpogenberg,HH_QIAGEN_JCSG-Core-II,1,HYPE_SeFic,10,100,Imager 19,Swissci,"shelf 1 = H1374 = HYPE102_306_SeFic_H72A
+shelf 3 = H1375 = HYPE102_445_SeFic_domain"
+SD30009887,Thu 05 Dec 2024 10:24,vpogenberg,HH_QIAGEN_JCSG-Core-II,3,HYPE_SeFic,10,100,Imager 19,Swissci,"shelf 1 = H1374 = HYPE102_306_SeFic_H72A
+shelf 3 = H1375 = HYPE102_445_SeFic_domain"
+SD30009886,Thu 05 Dec 2024 10:20,vpogenberg,HH_QIAGEN_JCSG-Core-III,1,HYPE_SeFic,10,100,Imager 19,Swissci,"shelf 1 = H1374 = HYPE102_306_SeFic_H72A
+shelf 3 = H1375 = HYPE102_445_SeFic_domain"
+SD30009886,Thu 05 Dec 2024 10:20,vpogenberg,HH_QIAGEN_JCSG-Core-III,3,HYPE_SeFic,10,100,Imager 19,Swissci,"shelf 1 = H1374 = HYPE102_306_SeFic_H72A
+shelf 3 = H1375 = HYPE102_445_SeFic_domain"
+SD30009885,Thu 05 Dec 2024 10:16,vpogenberg,HH_QIAGEN_JCSG-Core-I,1,HYPE_SeFic,10,100,Imager 19,Swissci,"shelf 1 = H1374 = HYPE102_306_SeFic_H72A
+shelf 3 = H1375 = HYPE102_445_SeFic_domain"
+SD30009885,Thu 05 Dec 2024 10:16,vpogenberg,HH_QIAGEN_JCSG-Core-I,3,HYPE_SeFic,10,100,Imager 19,Swissci,"shelf 1 = H1374 = HYPE102_306_SeFic_H72A
+shelf 3 = H1375 = HYPE102_445_SeFic_domain"
+SD30009340,Fri 21 Jun 2024 10:37,vpogenberg,HH_QIAGEN_JCSG-Core-III,1,XTEN30_2,5,100,Imager 19,Swissci,
+SD30009341,Fri 21 Jun 2024 10:35,vpogenberg,HH_QIAGEN_ProComplex,1,XTEN30_2,5,100,Imager 19,Swissci,
+SD30009339,Fri 21 Jun 2024 10:32,vpogenberg,HH_QIAGEN_JCSG-Core-II,1,XTEN30_2,5,100,Imager 19,Swissci,
+SD30009338,Fri 21 Jun 2024 10:29,vpogenberg,HH_QIAGEN_JCSG-Core-I,1,XTEN30_2,5,100,Imager 19,Swissci,
+SD30009337,Fri 21 Jun 2024 10:28,vpogenberg,HH_QIAGEN_JCSG-Core-IV,1,XTEN30_2,5,100,Imager 19,Swissci,
+SD30009335,Wed 19 Jun 2024 11:06,vpogenberg,HH_QIAGEN_JCSG-Core-II,1,XTEN30,10,100,Imager 19,Swissci,
+SD30009334,Wed 19 Jun 2024 11:03,vpogenberg,HH_QIAGEN_JCSG-Core-I,1,XTEN30,10,100,Imager 19,Swissci,
+SD30009333,Wed 19 Jun 2024 11:02,vpogenberg,HH_QIAGEN_JCSG-Core-III,1,XTEN30,10,100,Imager 19,Swissci,
+SD30009332,Wed 19 Jun 2024 11:00,vpogenberg,HH_QIAGEN_JCSG-Core-IV,1,XTEN30,10,100,Imager 19,Swissci,
+SD30009331,Wed 19 Jun 2024 10:58,vpogenberg,HH_QIAGEN_ProComplex,1,XTEN30,10,100,Imager 19,Swissci,
+SD30009294,Tue 04 Jun 2024 13:19,vpogenberg,HH_QIAGEN_ProComplex,3,XTEN30,5,100,Imager 19,Swissci,
+SD30009293,Tue 04 Jun 2024 13:18,vpogenberg,HH_QIAGEN_JCSG-Core-I,3,XTEN30,5,100,Imager 19,Swissci,
+SD30009292,Tue 04 Jun 2024 13:17,vpogenberg,HH_QIAGEN_JCSG-Core-II,3,XTEN30,5,100,Imager 19,Swissci,
+SD30009291,Tue 04 Jun 2024 13:16,vpogenberg,HH_QIAGEN_JCSG-Core-III,3,XTEN30,5,100,Imager 19,Swissci,
+SD30009290,Tue 04 Jun 2024 13:16,vpogenberg,HH_QIAGEN_JCSG-Core-IV,3,XTEN30,5,100,Imager 19,Swissci,
+SD30009162,Thu 25 Apr 2024 10:07,vpogenberg,HH_QIAGEN_ProComplex,1,XTEN30,9,100,Imager 19,Swissci,
+SD30009159,Thu 25 Apr 2024 10:06,vpogenberg,HH_QIAGEN_JCSG-Core-III,1,XTEN30,9,100,Imager 19,Swissci,
+SD30009161,Thu 25 Apr 2024 10:05,vpogenberg,HH_QIAGEN_JCSG-Core-II,1,XTEN30,9,100,Imager 19,Swissci,
+SD30009163,Thu 25 Apr 2024 10:05,vpogenberg,HH_QIAGEN_JCSG-Core-I,1,XTEN30,9,100,Imager 19,Swissci,
+SD30009160,Thu 25 Apr 2024 09:50,vpogenberg,HH_QIAGEN_JCSG-Core-IV,1,XTEN30,9,100,Imager 19,Swissci,
+SD30008097,Wed 05 Apr 2023 16:52,mdeckers,HH_QIAGEN_JCSG-Core-IV,1,xH1039_SeFicD_with-ATOX after TEV,7.5,200,Imager 19,Swissci,no remarks
+SD30008097,Wed 05 Apr 2023 16:52,mdeckers,HH_QIAGEN_JCSG-Core-IV,2,xH1039_SeFicD_with-ATOX after TEV,7.5,150,Imager 19,Swissci,no remarks
+SD30008097,Wed 05 Apr 2023 16:52,mdeckers,HH_QIAGEN_JCSG-Core-IV,3,xH1039_SeFicD_with-ATOX after TEV,7.5,100,Imager 19,Swissci,no remarks
+SD30008095,Wed 05 Apr 2023 16:48,mdeckers,HH_QIAGEN_JCSG-Core-III,1,xH1039_SeFicD_with-ATOX after TEV,7.5,200,Imager 19,Swissci,no remarks
+SD30008095,Wed 05 Apr 2023 16:48,mdeckers,HH_QIAGEN_JCSG-Core-III,2,xH1039_SeFicD_with-ATOX after TEV,7.5,150,Imager 19,Swissci,no remarks
+SD30008095,Wed 05 Apr 2023 16:48,mdeckers,HH_QIAGEN_JCSG-Core-III,3,xH1039_SeFicD_with-ATOX after TEV,7.5,100,Imager 19,Swissci,no remarks
+SD30008098,Wed 05 Apr 2023 16:43,mdeckers,HH_QIAGEN_JCSG-Core-II,1,xH1039_SeFicD_with-ATOX after TEV,7.5,200,Imager 19,Swissci,no remarks
+SD30008098,Wed 05 Apr 2023 16:43,mdeckers,HH_QIAGEN_JCSG-Core-II,2,xH1039_SeFicD_with-ATOX after TEV,7.5,150,Imager 19,Swissci,no remarks
+SD30008098,Wed 05 Apr 2023 16:43,mdeckers,HH_QIAGEN_JCSG-Core-II,3,xH1039_SeFicD_with-ATOX after TEV,7.5,100,Imager 19,Swissci,no remarks
+SD30008096,Wed 05 Apr 2023 16:38,mdeckers,HH_QIAGEN_JCSG-Core-I,1,xH1039_SeFicD_with-ATOX after TEV,7.5,200,Imager 19,Swissci,no remarks
+SD30008096,Wed 05 Apr 2023 16:38,mdeckers,HH_QIAGEN_JCSG-Core-I,2,xH1039_SeFicD_with-ATOX after TEV,7.5,150,Imager 19,Swissci,no remarks
+SD30008096,Wed 05 Apr 2023 16:38,mdeckers,HH_QIAGEN_JCSG-Core-I,3,xH1039_SeFicD_with-ATOX after TEV,7.5,100,Imager 19,Swissci,no remarks
+SD30008094,Wed 05 Apr 2023 16:34,mdeckers,HH_QIAGEN_ProComplex,1,xH1039_SeFicD_with-ATOX after TEV,7.5,200,Imager 19,Swissci,no remarks
+SD30008094,Wed 05 Apr 2023 16:34,mdeckers,HH_QIAGEN_ProComplex,2,xH1039_SeFicD_with-ATOX after TEV,7.5,150,Imager 19,Swissci,no remarks
+SD30008094,Wed 05 Apr 2023 16:34,mdeckers,HH_QIAGEN_ProComplex,3,xH1039_SeFicD_with-ATOX after TEV,7.5,100,Imager 19,Swissci,no remarks

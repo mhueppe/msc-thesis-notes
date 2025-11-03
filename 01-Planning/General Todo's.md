@@ -13,6 +13,8 @@
 - [x] Await answer: Examination office ✅ 2025-08-19
 - [x] Write professor back regardless of answer of examination office ✅ 2025-08-15
 - [x] Prepare first status meeting ✅ 2025-09-29
+- [x] Einrichtung UKE email and send Kerstin Email ✅ 2025-10-20
+- [ ] Create Elab project and transfer data exploration to it
 
 | Contact              | Email Address                  | Contacted                                    | Answer                                       | Help  |
 | -------------------- | ------------------------------ | -------------------------------------------- | -------------------------------------------- | ----- |
@@ -21,6 +23,6 @@
 | EMBL Hamburg         | info@embl-hamburg.de           | <input id="hc-9767" type="checkbox" checked> | <input id="hc-8983" type="checkbox" checked> | ❌<br> |
 | EMBL Grenoble HTX    | htx@embl.fr                    | <input id="hc-7627" type="checkbox" checked> | <input id="hc-7053" type="checkbox" checked> | ❌     |
 | Diamond Light Source | dataportal@diamond.ac.uk       | <input id="hc-7106" type="checkbox" checked> | <input id="hc-2186" type="checkbox" checked> | ❌     |
-| UKE Lab Itzen        |                                | <input id="hc-4771" type="checkbox" checked> | <input id="hc-9128" type="checkbox" checked> |       |
+| UKE Lab Itzen        | (CRIMS)                        | <input id="hc-4771" type="checkbox" checked> | <input id="hc-9128" type="checkbox" checked> |       |
 
 

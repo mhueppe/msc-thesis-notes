@@ -12,8 +12,7 @@ Activate jupyter WSL to use in Pycharm with specific token
 
 When external hard drive is not found or the files inside it, then it is probably not mounted properly try: 
 ```bash
-sudo umount /mnt/d
-sudo mount -t drvfs D: /mnt/d
+sudo umount /mnt/d | sudo mount -t drvfs D: /mnt/d
 ls /mnt/d
 ```
 

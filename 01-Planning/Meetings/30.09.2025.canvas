@@ -25,6 +25,20 @@
 			"label":"Surface Plots"
 		},
 		{
+			"id":"b754e99a29d62f0e",
+			"type":"group",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":160,
+			"y":1480,
+			"width":640,
+			"height":560,
+			"label":"Match"
+		},
+		{"id":"a9fd91e75a26215f","type":"group","x":-2640,"y":-480,"width":900,"height":880,"label":"Input"},
+		{"id":"af59817c4b336ebf","type":"group","x":-1720,"y":-480,"width":900,"height":880,"label":"Label"},
+		{
 			"id":"d6c83a7283fe8766",
 			"type":"group",
 			"styleAttributes":{
@@ -85,18 +99,6 @@
 			"label":"Embedding Analysis"
 		},
 		{
-			"id":"b754e99a29d62f0e",
-			"type":"group",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":160,
-			"y":1480,
-			"width":640,
-			"height":560,
-			"label":"Match"
-		},
-		{
 			"id":"d247b1a045cda0d0",
 			"type":"file",
 			"file":"03-Methods/Data/Exploration/Details/Details Exploration (new).md",
@@ -131,18 +133,6 @@
 			"y":-220,
 			"width":260,
 			"height":60
-		},
-		{
-			"id":"370a0772ed622d42",
-			"type":"file",
-			"file":"03-Methods/Data/Exploration/General Exploration.md",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-800,
-			"y":120,
-			"width":400,
-			"height":640
 		},
 		{
 			"id":"c668e1aab014aef0",
@@ -193,54 +183,6 @@
 			"height":288
 		},
 		{
-			"id":"212efa063bb6ba96",
-			"type":"file",
-			"file":"03-Methods/Data/Exploration/Data Sequence Embedding Exploration.md",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-1560,
-			"y":980,
-			"width":400,
-			"height":400
-		},
-		{
-			"id":"f123230eaf59491e",
-			"type":"file",
-			"file":"03-Methods/Data/Exploration/Surface/Surface Exploration.md",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-400,
-			"y":1190,
-			"width":400,
-			"height":570
-		},
-		{
-			"id":"2b103fb4d4de074b",
-			"type":"file",
-			"file":"Media/Pasted image 20250923191707.png",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-1920,
-			"y":1890,
-			"width":400,
-			"height":301
-		},
-		{
-			"id":"d0e4654170c22f17",
-			"type":"file",
-			"file":"Media/Pasted image 20250923191848.png",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-1320,
-			"y":2120,
-			"width":400,
-			"height":301
-		},
-		{
 			"id":"883b2af268e3c6d3",
 			"type":"file",
 			"file":"03-Methods/Data/Exploration/Details/Parsing Quality Exploration.md",
@@ -265,18 +207,6 @@
 			"height":321
 		},
 		{
-			"id":"b1ab22c4ab251b3c",
-			"type":"file",
-			"file":"Media/Pasted image 20250916143148.png",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":200,
-			"y":1520,
-			"width":400,
-			"height":326
-		},
-		{
 			"id":"17e2c686b2efd75a",
 			"type":"file",
 			"file":"Media/Pasted image 20250922124629.png",
@@ -287,78 +217,6 @@
 			"y":1950,
 			"width":400,
 			"height":297
-		},
-		{
-			"id":"1008d18eba7d037d",
-			"type":"file",
-			"file":"Media/Pasted image 20250923150059.png",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":120,
-			"y":2180,
-			"width":400,
-			"height":301
-		},
-		{
-			"id":"e6f3597ac41dfa31",
-			"type":"file",
-			"file":"Media/Pasted image 20250923180646.png",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-720,
-			"y":2180,
-			"width":400,
-			"height":366
-		},
-		{
-			"id":"3724f2be5076676e",
-			"type":"file",
-			"file":"Media/Pasted image 20250923143057.png",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-300,
-			"y":2566,
-			"width":400,
-			"height":324
-		},
-		{
-			"id":"88b04498d2125d0c",
-			"type":"file",
-			"file":"Media/Pasted image 20250923151015.png",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":120,
-			"y":2566,
-			"width":400,
-			"height":301
-		},
-		{
-			"id":"6120b66eba6c4243",
-			"type":"file",
-			"file":"Media/Pasted image 20250923150748.png",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-720,
-			"y":2566,
-			"width":400,
-			"height":301
-		},
-		{
-			"id":"d67c73ed22a18c25",
-			"type":"file",
-			"file":"Media/Pasted image 20250923151056.png",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-300,
-			"y":2213,
-			"width":400,
-			"height":301
 		},
 		{
 			"id":"b30e46b3e5818f4d",
@@ -457,18 +315,6 @@
 			"height":421
 		},
 		{
-			"id":"0862817fab7f10c7",
-			"type":"file",
-			"file":"Media/Pasted image 20250923191106.png",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":3080,
-			"y":2000,
-			"width":600,
-			"height":452
-		},
-		{
 			"id":"f183eb1fbbfc0bd4",
 			"type":"file",
 			"file":"Media/Pasted image 20250917095912.png",
@@ -491,6 +337,163 @@
 			"y":960,
 			"width":640,
 			"height":237
+		},
+		{
+			"id":"0862817fab7f10c7",
+			"type":"file",
+			"file":"Media/Pasted image 20250923191106.png",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":3080,
+			"y":2000,
+			"width":600,
+			"height":452
+		},
+		{"id":"745bc96429cdfeda","type":"file","file":"Media/Pasted image 20250826192746.png","x":-360,"y":-400,"width":400,"height":298},
+		{
+			"id":"2b103fb4d4de074b",
+			"type":"file",
+			"file":"Media/Pasted image 20250923191707.png",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1920,
+			"y":1890,
+			"width":400,
+			"height":301
+		},
+		{
+			"id":"d0e4654170c22f17",
+			"type":"file",
+			"file":"Media/Pasted image 20250923191848.png",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1320,
+			"y":2120,
+			"width":400,
+			"height":301
+		},
+		{
+			"id":"e6f3597ac41dfa31",
+			"type":"file",
+			"file":"Media/Pasted image 20250923180646.png",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-720,
+			"y":2180,
+			"width":400,
+			"height":366
+		},
+		{
+			"id":"3724f2be5076676e",
+			"type":"file",
+			"file":"Media/Pasted image 20250923143057.png",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-300,
+			"y":2566,
+			"width":400,
+			"height":324
+		},
+		{
+			"id":"6120b66eba6c4243",
+			"type":"file",
+			"file":"Media/Pasted image 20250923150748.png",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-720,
+			"y":2566,
+			"width":400,
+			"height":301
+		},
+		{
+			"id":"d67c73ed22a18c25",
+			"type":"file",
+			"file":"Media/Pasted image 20250923151056.png",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-300,
+			"y":2213,
+			"width":400,
+			"height":301
+		},
+		{
+			"id":"f123230eaf59491e",
+			"type":"file",
+			"file":"03-Methods/Data/Exploration/Surface/Surface Exploration.md",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-400,
+			"y":1190,
+			"width":400,
+			"height":570
+		},
+		{
+			"id":"212efa063bb6ba96",
+			"type":"file",
+			"file":"03-Methods/Data/Exploration/Data Sequence Embedding Exploration.md",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1560,
+			"y":980,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"1008d18eba7d037d",
+			"type":"file",
+			"file":"Media/Pasted image 20250923150059.png",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":120,
+			"y":2180,
+			"width":400,
+			"height":301
+		},
+		{
+			"id":"88b04498d2125d0c",
+			"type":"file",
+			"file":"Media/Pasted image 20250923151015.png",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":120,
+			"y":2566,
+			"width":400,
+			"height":301
+		},
+		{
+			"id":"b1ab22c4ab251b3c",
+			"type":"file",
+			"file":"Media/Pasted image 20250916143148.png",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":200,
+			"y":1520,
+			"width":400,
+			"height":326
+		},
+		{
+			"id":"370a0772ed622d42",
+			"type":"file",
+			"file":"03-Methods/Data/Exploration/General Exploration.md",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-760,
+			"y":120,
+			"width":840,
+			"height":640
 		}
 	],
 	"edges":[

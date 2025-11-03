@@ -4,7 +4,7 @@
 - [x] Fix fragmented space r ✅ 2025-08-26
 - [x] create relational database system (star schema) for every category ✅ 2025-08-24
 - [x] Create Details parser for all given conditions 🆔 yruue7 ⛔ 5qyrrt ⏫ ➕ 2025-08-12 ✅ 2025-08-21
-- [x] Parse all crystallization data into one database 🆔 fg69a2 ⛔ yruue7 🔼 ✅ 2025-08-16
+- [ ] Parse all crystallization data into one database 🆔 fg69a2 ⛔ yruue7 🔼
 - [x] Parse all proteins into one database 🆔 fg69a2 ⛔ yruue7 🔼 ✅ 2025-08-21
 - [x] Preprocess missing value "?"  -> NAN ✅ 2025-08-24
 - [x] Convert All to numerical if possible and add to download file ✅ 2025-08-24

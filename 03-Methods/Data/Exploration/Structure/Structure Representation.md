@@ -1,0 +1,3 @@
+- [ ] implement image distance map representation for a given protein 
+- [ ] try to embed the protein distance map 
+- [ ] perform data analysis on the image representation 

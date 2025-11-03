@@ -12,7 +12,8 @@ where 0.74 is an assumed value for the partial specific volume of the molecule
 range = [0, 100]
 advised range = [15, 100]
 
- perform data analysis of the solvent content
+- [x] Check for correlations between solvent content and chemicals ✅ 2025-10-14
+- [x] check for correlations between solvent content and PEGs ✅ 2025-10-14
 
 ![[Pasted image 20251014100656.png]]
 ## Chemicals 

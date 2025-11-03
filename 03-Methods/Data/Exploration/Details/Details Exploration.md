@@ -6,7 +6,7 @@
 - [x] Perform data analysis for embedding correlations with conditions ✅ 2025-09-17
 - [x] What are the most common components for the missed chemicals? ✅ 2025-09-25
 - [x] How do the samples for the missed components look like? What is missed: Protein solution ✅ 2025-09-25
-- [ ] loook into distributoin of peg count per protein 
+- [x] loook into distributoin of peg count per protein  @completed(2025-10-14T11:35:20+02:00)
 - [ ] Rerun data exploration after completing #maintenance ⛔ mw5an4 
 - [ ] Clean up description Exploration  #maintenance
 - [ ] Write Section on Condition Parsing #writing 

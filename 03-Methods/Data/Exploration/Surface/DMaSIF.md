@@ -7,10 +7,10 @@
 - [x] convert all .cif files into .npy coordinate files ✅ 2025-10-06
 - [x] implement batching based on multiple files  @completed(2025-10-07T12:23:47+02:00)
 - [x] parse all npy files into LMBD database for faster access ✅ 2025-10-06
-- [ ] convert all .npy files to surface files
+- [x] convert all .npy files to surface files @completed(2025-10-20T11:53:27+02:00)
 - [ ] implement protein size dependent dMaSif surface generation 
 - [x] minimize database space  @completed(2025-10-07T12:23:38+02:00)
-- [ ] perform data analysis on DMaSIF 
+- [x] perform data analysis on DMaSIF  @completed(2025-10-20T11:53:44+02:00)
 
 Differentiable molecular surface interaction fingerprinting
 Based on the paper described in [[Fast end-to-end learning on protein surfaces]]
@@ -59,3 +59,13 @@ When doing native extreme subsampling (reducing by 26x) the overall shape stays 
 Time for surface generation decrases with batch size 
 ![[Pasted image 20251006142539.png]]
 
+
+## Protein MAE
+
+
+![[Pasted image 20251015111612.png]]
+
+
+
+
+![[Pasted image 20251015111624.png]]
