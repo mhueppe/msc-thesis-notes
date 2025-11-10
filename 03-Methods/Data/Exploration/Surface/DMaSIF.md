@@ -8,7 +8,7 @@
 - [x] implement batching based on multiple files  @completed(2025-10-07T12:23:47+02:00)
 - [x] parse all npy files into LMBD database for faster access ✅ 2025-10-06
 - [x] convert all .npy files to surface files @completed(2025-10-20T11:53:27+02:00)
-- [ ] implement protein size dependent dMaSif surface generation 
+- [x] implement protein size dependent dMaSif surface generation  @completed(2025-11-10T15:33:32+01:00)
 - [x] minimize database space  @completed(2025-10-07T12:23:38+02:00)
 - [x] perform data analysis on DMaSIF  @completed(2025-10-20T11:53:44+02:00)
 

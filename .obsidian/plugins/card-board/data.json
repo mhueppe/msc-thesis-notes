@@ -47,7 +47,7 @@
           {
             "tag": "namedTag",
             "data": {
-              "collapsed": true,
+              "collapsed": false,
               "name": "On hold",
               "tag": "#onhold"
             }

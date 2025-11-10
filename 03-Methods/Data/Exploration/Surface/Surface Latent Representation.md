@@ -6,7 +6,8 @@
 
 # Autoencoder 
 Trained under [Wandb](https://wandb.ai/michihueppe01-universit-t-hamburg/surface_autoencoder/runs/5txf1rjo)
- 
+ Latent Vector: 
+ ![[Pasted image 20251106132528.png]]
  ![[Pasted image 20251006172237.png]]
  ![[Pasted image 20251020112530.png]]
  ![[Pasted image 20251020112541.png]]
