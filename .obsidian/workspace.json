@@ -6,7 +6,6 @@
       {
         "id": "c56e666adb6dcddd",
         "type": "tabs",
-        "dimension": 78.46683893195521,
         "children": [
           {
             "id": "c470fae008303a18",
@@ -45,26 +44,46 @@
               "state": {
                 "file": "01-Planning/Meetings/30.09.2025.canvas",
                 "viewState": {
-                  "x": -967.7943649064714,
-                  "y": 2096.5674809253105,
-                  "zoom": -1.3810800765355447
+                  "x": 524.0845144330146,
+                  "y": 1411.3391789241164,
+                  "zoom": -2.0477467432022114
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "30.09.2025"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "6737e19f0deb9249",
-        "type": "tabs",
-        "dimension": 21.53316106804479,
-        "children": [
+          },
           {
-            "id": "1f25c93431ca45a7",
+            "id": "e6f6b86aeb554409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Research/Protein Chemistry Course/Protein structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protein structures"
+            }
+          },
+          {
+            "id": "84c2caf99bb2373c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Methods/Data/Exploration/Details/Details Encoding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Details Encoding"
+            }
+          },
+          {
+            "id": "e81089ff328e06eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,121 +97,21 @@
             }
           },
           {
-            "id": "708c991bf2099ac9",
+            "id": "0990f40e304aaf93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Methods/Data/Exploration/Data Sequence Embedding Exploration.md",
+                "file": "03-Methods/Data/Databuilder/Label.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Sequence Embedding Exploration"
-            }
-          },
-          {
-            "id": "1796909346d97361",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/Pasted image 20250903081028.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250903081028"
-            }
-          },
-          {
-            "id": "7ee63376ce5a6a63",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/FORMULATRIX_SD30010705_2_01-10-2025_03_03_01_00_99_Vis-1.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "FORMULATRIX_SD30010705_2_01-10-2025_03_03_01_00_99_Vis-1"
-            }
-          },
-          {
-            "id": "20c1fd163651fbbe",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/FORMULATRIX_SD30010705_2_01-10-2025_03_03_01_00_99_Vis-1.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "FORMULATRIX_SD30010705_2_01-10-2025_03_03_01_00_99_Vis-1"
-            }
-          },
-          {
-            "id": "ac9660cd8aceccaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Planning/Tasks/Tasks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "34e95fe5920fe708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Methods/Data/Exploration/General Exploration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General Exploration"
-            }
-          },
-          {
-            "id": "91d0f70c5a69501e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/Pasted image 20250903163834.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250903163834"
-            }
-          },
-          {
-            "id": "a2e8f1f56f9cb6fa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/Pasted image 20250903175806.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250903175806"
-            }
-          },
-          {
-            "id": "75018e0eea8b9387",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/Pasted image 20250903174834.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250903174834"
+              "title": "Label"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -249,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 261.5
   },
   "right": {
     "id": "c67abae0fca4caba",
@@ -375,49 +294,51 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c4fb1186a27d4233",
+  "active": "e81089ff328e06eb",
   "lastOpenFiles": [
-    "03-Methods/Data/Exploration/Data Sequence Embedding Exploration.md",
-    "03-Methods/Data/Exploration/Solvent content.md",
+    "03-Methods/Data/Exploration/Surface/DMaSIF.md",
+    "03-Methods/Data/Exploration/Details/Parsing Quality Exploration.md",
+    "03-Methods/Data/Exploration/Details/Details Exploration.md",
+    "03-Methods/Data/Exploration/Details/Details Encoding.canvas",
+    "03-Methods/Data/Exploration/Details/Details Encoding.md",
     "03-Methods/Data/Exploration/General Exploration.md",
-    "03-Methods/Data/Exploration/Data sequence similarity Exploration.md",
+    "03-Methods/Data/Normalization/Data Features.md",
+    "03-Methods/Data/Normalization/Data normalization.md",
     "03-Methods/Data/Exploration/CRIMS Exploration.md",
-    "03-Methods/Data/Exploration/Surface/Surface Exploration.md",
+    "03-Methods/Data/Exploration/Data Sequence Embedding Exploration.md",
+    "03-Methods/Data/Exploration/Data sequence similarity Exploration.md",
+    "03-Methods/Data/Exploration/Solvent content.md",
+    "03-Methods/Data/Exploration/Space Group.md",
+    "03-Methods/Data/Exploration/Stöchiometrie prediction.md",
+    "Media/Pasted image 20251115133438.png",
+    "03-Methods/Data/Databuilder/Label.md",
+    "02-Research/Protein Chemistry Course/Protein structures.md",
+    "Media/Pasted image 20251115132412.png",
+    "Media/Pasted image 20251115132348.png",
+    "Media/Pasted image 20251114171324.png",
+    "Media/Pasted image 20251114171140.png",
+    "01-Planning/Tasks/Tasks.md",
+    "01-Planning/Meetings/30.09.2025.canvas",
+    "Media/Pasted image 20251113180447.png",
+    "00-Index/Biochemistry Masterthesis.md",
+    "00-Index/Vault-Structure.md",
+    "02-Research/Papers/ProteinMAE masked autoencoder for protein surface  self-supervised learning.md",
+    "Media/Pasted image 20251012113205.png",
+    "02-Research/Questions.md",
+    "03-Methods/Data/Databuilder",
+    "02-Research/Literature.md",
+    "01-Planning/General Todo's.md",
     "Media/FORMULATRIX_SD30010705_2_01-10-2025_03_03_01_00_99_Vis-1.jpg",
+    "01-Planning/Meetings/First Prasentation.canvas",
+    "00-Index/Thesis-Timeline.md",
+    "Media/Pasted image 20250903081028.png",
+    "03-Methods/Data/Exploration/Surface/Surface Exploration.md",
     "03-Methods/Data/Exploration/Surface/Surface Latent Representation.md",
     "Media/FORMULATRIX_SD30010708_4_07-10-2025_02_05_01_00_99_Vis.jpg",
-    "03-Methods/Data/Exploration/Details/Details Exploration.md",
     "03-Methods/Data/Acquisition/CRIMS.md",
-    "03-Methods/Data/Acquisition/Data Acquisition.md",
-    "Media/Pasted image 20251106132528.png",
-    "03-Methods/Data/Exploration/Stöchiometrie prediction.md",
-    "03-Methods/Data/Exploration/Space Group.md",
-    "03-Methods/Data/Normalization/Data normalization.md",
-    "03-Methods/Installation and Commands.md",
-    "01-Planning/Tasks/Tasks.md",
-    "03-Methods/Data/Exploration/Surface/DMaSIF.md",
-    "03-Methods/Data/Exploration/Structure/Structure Embedding Analysis.md",
-    "03-Methods/Data/Exploration/Structure/Structure Representation.md",
-    "03-Methods/Data/Exploration/Details/Parsing Quality Exploration.md",
-    "03-Methods/Data/Normalization/Data Features.md",
-    "Media/Pasted image 20250903163834.png",
-    "Media/Pasted image 20250903175806.png",
-    "Media/Pasted image 20250903174834.png",
-    "Media/Pasted image 20251014133138.png",
     "Media/codeLengthDistribution.pdf",
-    "Media/Pasted image 20251103101458.png",
-    "01-Planning/Meetings/30.09.2025.canvas",
-    "02-Research/Protein Chemistry Course/Protein structures.md",
-    "00-Index/Thesis-Timeline.md",
-    "00-Index/Biochemistry Masterthesis.md",
-    "00-Index/Master Thesis.md",
-    "00-Index/Vault-Structure.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "01-Planning/pipeline.puml",
-    "Media/Pasted image 20251101215914.png",
-    "Media/Pasted image 20251101215839.png",
-    "01-Planning/Meetings/First Prasentation.canvas",
     "Papers/s41586-021-03819-2.pdf",
     "Media/CRIMS_plateList.csv",
     "03-Methods/Data/Normalization",
@@ -425,7 +346,6 @@
     "03-Methods/Data/Exploration/Structure",
     "03-Methods/Data/Exploration/Surface",
     "Media/free-vector-question-mark-icon_901408-624.xcf",
-    "www.biorxiv.org/content/10.1101",
     "03-Methods/Data/Exploration/Untitled.canvas",
     "03-Methods/Data/Exploration/Data Exploration.canvas",
     "03-Methods/Pipeline/Untitled.canvas",

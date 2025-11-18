@@ -13,6 +13,7 @@
 - [x] Split utils up by functionality #maintanence ✅ 2025-09-26
 - [x] Analyse correlation between sequence length and atom count, based on classes, there seems to be a class dependent correlation, filter for monomers and polymers @completed(2025-10-13T08:25:14+02:00)
 - [x] analyse dependent distributions for sequence length pi and protein ✅ 2025-10-14
+- [x] Create Presentation about data acquistion and data exploration ✅ 2025-11-11
 - [ ] Write Section on general Data Description #writing
 # Nan Value Percentage per Information
 
